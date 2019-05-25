@@ -1,12 +1,12 @@
 # Next Steps Lesson Plan
 
-# **Summary**
+## Summary
 
 Next Steps is designed to help students continue learning after the workshop is over, on their own time and pace. It works best when run towards the end. In this module, we point them in the right direction by introducing the tutorials, material sources, and online/live communities that exist around the tools they have been using.
 
 Next steps can be modified to be used for other tools besides the FLORA and Untiy. When a tool is popular, there are usually places where an online community forms, and where there are projects and experiences shared. When it comes to local game development communities, there are always more and more collectives and groups forming, even in unexpected areas. So it’s worth looking it up wherever you may be. 
 
-# **Learning Objectives**
+## Learning Objectives
 - Be able to keep learning after the workshop.
 - Be able to read and use online resources.
 - Where to get more components and materials
@@ -14,11 +14,11 @@ Next steps can be modified to be used for other tools besides the FLORA and Unti
 - Understand the open source culture/movement and how anyone can be a part.
 
 
-# **Prerequisites**
+## Prerequisites
 
 The teacher should have a list of current, up to date links. 
 
-# **Context**
+## Context
 
 One of the most important long term skills with technology to is to **“learn to learn."** This allows the student to continue growing and acquiring new skills and knowledge about new tools outside of a structured learning environment independently. And so as technology changes they too can adapt to it.
 
@@ -34,7 +34,8 @@ It is also important to know there are many opportunities to show work that is m
 - Adruino FAQ (the very popular open source hardware FLORA technology is based on) https://www.arduino.cc/en/Main/FAQ
 - Open Source Hardware Association’s definition of open source hardware https://www.oshwa.org/definition/
 - Wikipedia entry on Open Source Hardware https://en.wikipedia.org/wiki/Open-source_hardware
-# **Materials**
+
+## Materials
 
 The Adafruit FLORA budget pack is suitable for this module, because it comes with all the basic components and tools that allow for further exploration on various applications of the FLORA. https://www.adafruit.com/product/1405
 
@@ -45,9 +46,10 @@ The Adafruit FLORA budget pack is suitable for this module, because it comes wit
 - [Small Alligator Clip Test Lead (set of 12)](http://www.adafruit.com/products/1008)
 - [USB cable - A/MicroB - 3ft](https://www.adafruit.com/product/592)
 - [Conductive Fabric](https://lessemf.com/fabric.html)
-# **Lesson Plan**
 
-**Session One (FLORA)**
+## Lesson Plan
+
+### Session One: FLORA
 The following are links to information which can help you keep learning after the program is over. 
 
 **FLORA set up:** https://learn.adafruit.com/getting-started-with-flora/overview
@@ -71,12 +73,12 @@ A store with a great selection of conductive fabrics.
 **Adafruit conductive materials including conductive thread:** https://www.adafruit.com/search?q=conductive The Adafruit store with all the conductive materials they sell.
 
 
-**Session Two (Unity)**
+### Session Two: Unity
 
 - Follow the first two videos on http://unity3d.com/learn/tutorials/modules/beginner/live-training-archive/editor-basics
 
 
-**Festivals, Demos, Playtesting, Game Jams, Competitions**
+#### Festivals, Demos, Playtesting, Game Jams, Competitions
 It’s a good idea to go to these websites, and put your email address into their list, so that if there are any open calls or announcements about events, you will be in the know.
 
 

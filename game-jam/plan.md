@@ -1,11 +1,13 @@
-# G**ame** **J****am**
-**Day One Slides - (**[**on google docs**](https://docs.google.com/presentation/d/1vyZkDnhwG2WmTr1uvZhfUvXO3oEXQuSjiIfVJAP8Lq0/edit)**)** 
-**Day Two Slides - (**[**on google docs**](https://docs.google.com/presentation/d/14x_vDobmquLW1XRPJmaAhTj7pIhitMeEl9pW7e1Y170/edit)**)**
+# Game Jam
+
+- Day One Slides ([**on google docs**](https://docs.google.com/presentation/d/1vyZkDnhwG2WmTr1uvZhfUvXO3oEXQuSjiIfVJAP8Lq0/edit))
+- Day Two Slides ([**on google docs**](https://docs.google.com/presentation/d/14x_vDobmquLW1XRPJmaAhTj7pIhitMeEl9pW7e1Y170/edit))
 
 - other game jams
     - https://itch.io/jams
     - http://www.indiegamejams.com/
     - https://ldjam.com/
+
 # Learning Goals
 - How to get a game finished
     - How to work quickly
@@ -33,17 +35,19 @@ Game Jams are a great way to meet people, play new games, and get your own games
     - Slack
     - DropBox
     - Git/Github
+
 # Materials
 - Paper and pencil
+
 # Lesson Plan
 ## Session One
 
-**Teams and Ideas**
+### Teams and Ideas
 *If the class is already divided into teams with game ideas, skip this*
 
-- Run a condensed [+Brainstorming Lesson Plan](https://paper.dropbox.com/doc/Brainstorming-Lesson-Plan-qIDW8VT23fJbbLzBCw3tg) 
+- Run a condensed [Brainstorming](/brainstorming) 
 
-**Design Document**
+### Design Document
 
 - Have teams fill out a game design document with their idea
 https://www.dropbox.com/s/bszpjv5uyvuyn53/GDD.pdf?dl=0
@@ -51,7 +55,7 @@ https://www.dropbox.com/s/bszpjv5uyvuyn53/GDD.pdf?dl=0
 
 [https://www.dropbox.com/s/bszpjv5uyvuyn53/GDD.pdf?dl=0](https://www.dropbox.com/s/bszpjv5uyvuyn53/GDD.pdf?dl=0)
 
-**Simplification**
+### Simplification
 
 - Guide the class through the process of simplification to help them shave the idea down to something doable. Some questions:
     - What is new about your idea?
@@ -65,12 +69,12 @@ https://www.dropbox.com/s/bszpjv5uyvuyn53/GDD.pdf?dl=0
     - What is the minimum subset of your idea you need to make as a prototype?
     
 
-**Revised Design Document**
+### Revised Design Document
 
 - Fill out another Game Design Document with the simplified design
     
 
-**Punchlist**
+### Punchlist
 
 - Break down the game design document into each individual task that needs to be finished, and who needs to finish them
     - No matter how minor
@@ -87,14 +91,15 @@ https://www.dropbox.com/s/bszpjv5uyvuyn53/GDD.pdf?dl=0
     - Do they seem balanced in terms of effort and time? 
     - Can you help others with some tasks?
     - Where can other people help you? 
+
 ## Session Two
 
-**Production**
+### Production
 
 - Implement tasks, cross things off the list as they finish
 - If new ideas come up, keep a log of what to do for the next prototype, but do not add do your punch list!
 
-**Playtest**
+### Playtest
 
 - Divide class into group A and group B
 - Spend 30 mins having group A play tests group B's games, and then reverse the rolls.

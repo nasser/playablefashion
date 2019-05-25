@@ -27,16 +27,19 @@ None. Any experience writing code is a plus.
 - Connect Techniques to Existing Games
 - Rapid Iteration
 - Game Logic
+
 ## Materials (per student)
 - Computer
 - Unity3D
 - MonoDevelop
 - [Unity Cheat Sheet](http://nas.sr/teaching/2015/game-design-studio/unity-cheat-sheet/)
+
 ## Session 1
 
-**Summary**
+### Summary
 Students will be introduced to Unity by tweaking an existing game to turn it into something new
-**Goals**
+
+### Goals
 
 - Understand Unity’s core concepts
     - Particularly GameObjects, Component, and Prefabs
@@ -44,7 +47,7 @@ Students will be introduced to Unity by tweaking an existing game to turn it int
 - Navigate in 3D Space
 - Begin to see the need for writing code
 
-**Plan**
+### Plan
 
 - two approaches
     - for teachers who know unity
@@ -121,6 +124,7 @@ Students will be introduced to Unity by tweaking an existing game to turn it int
         - How can we make it really easy?
         - How can we make it “better” ?
         - Their answers to the earlier question of what they would change
+
 ## Session 2
 - Scripting
 - Syntax
@@ -134,6 +138,7 @@ Students will be introduced to Unity by tweaking an existing game to turn it int
 - Goal:
     - Understand Syntax
     - Flight Script
+
 ## Session 3 
 - Scripting
 - Colliders, Hitboxes
@@ -144,6 +149,7 @@ Students will be introduced to Unity by tweaking an existing game to turn it int
     - Stationary Enemy
     - Projectiles fired on key press
     - Enemies disappear on collision with projectile
+
 ## Session 4
 - Enemy Motion
 - Enemy Projectiles
@@ -206,7 +212,7 @@ Unity is always a 3D engine. It is capable of making 2D games, but those get tre
 
 ## In The Classroom
 
-**Setup**
+### Setup
 Normalizing the classroom is *crucial* to a successful coding workshop. This means that every computer is running the same
 
 
@@ -219,7 +225,7 @@ Additionally, things often thought of as preferences should be identical as well
 
 In situations where the running software cannot be normalized beforehand, anticipate these differences as sources of confusion, and prepare extra time for it.
 
-**Type-along Coding**
+### Type-along Coding
 To demonstrate each step of the writing of code, we encourage the following:
 
 1. Break the coding into chunks or steps that can fit on a single screen
@@ -242,14 +248,14 @@ This approach has several benefits:
 
 Make sure your font size is large enough to be read comfortably by everyone in the room. This might mean writing code at a comically large size, and might affect your ability to write code comfortably. Experiment with this during classroom preparation if possible.
 
-**On Errors**
+### On Errors
 I want to stress #3 in the above list. There is a myth among programmers, particularly among new programmer, that errors are “wrong” and a sign that they’re “not good” at programming. Some have the feeling that when they’re “good” programmers, they simply will not see error messages again. The aesthetics of error messages encourage this: stop signs with exclamation points and ominous red and black text. This, of course, couldn’t be farther from the truth, and this is an excellent opportunity to push back against that intuition. This is hard to express verbally without sounding condescending, but by demonstrating that errors are not a big deal and that “even the instructor” consistently makes them, you can communicate this powerfully.
 
 We explain programming errors as “situations where the computer does not have enough information to proceed and is, asking for help” or “situations where what you wanted is not clear to the computer.” An example we like to give is asking a friend to grab you a bagel from the deli when they head out. If it turns out that the deli has three kinds of bagels, your friend wouldn’t know which one you wanted, so they might phone you and ask. That phone call is an error message.
  
 
 
-Background: 
+<!-- Background: 
 Entity-Component system (instead of alternatives like Object Oriented Programming)
 History of
 Nature of programming for games has to allow for iteration - how can I iterate as much as possible?
@@ -258,7 +264,7 @@ Understanding the needs of Game programming vs other kinds of programming
 Ramsey’s best practices approach that introduces ways of programming on Unity that optimizes the flexibility, modularity of the entity-component system it uses.  
 
 Classroom content: 
-*Cheat sheets can allow to prioritize the teacher’s attention, and can help specialize the questions the teacher can address. Cheat sheets should have more answers to objective questions. This can save the teacher’s time and allow for more personalized attention. 
+Cheat sheets can allow to prioritize the teacher’s attention, and can help specialize the questions the teacher can address. Cheat sheets should have more answers to objective questions. This can save the teacher’s time and allow for more personalized attention. 
 
 Note: 
 
@@ -269,9 +275,4 @@ Note:
 **Context/History**
 http://scottbilas.com/files/2002/gdc_san_jose/game_objects_slides.pdf
 
-Game development is unique in that its success metric is *subjective*, so the software engineering approach is much more *iterative* than usual.
-
-how much can be put on the cheat sheet?
-
-- interface
-
+Game development is unique in that its success metric is *subjective*, so the software engineering approach is much more *iterative* than usual. -->

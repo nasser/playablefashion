@@ -8,6 +8,7 @@
 - Emphasize that computers do not 'know' what they are doing, but rather follow simple rules that can be manipulated to perform tasks
 - Serve as a stepping stone on the way to learning how to write software
 - Serve as a point of reference during later discussions while writing software
+
 ## Tools (for 15 students)
 - Sponge Computer & Emulator
     - Emulator interface
@@ -15,10 +16,12 @@
 - 100x Yellow/green sponges x 3 groups of 5 students
 - Markers
 - Stopwatch
+
 ## Materials (for 15 students)
 - Pack of index cards
 - Pack of Post-Its
 - Instruction printouts
+
 ## The Computer
 
 The workshop centers around manually operated sponge-based computers. Each computer consists of:
@@ -29,7 +32,7 @@ The workshop centers around manually operated sponge-based computers. Each compu
 - 3-5 students, called “the processor”
 - A stack of instructions to execute, called “the program”
 
-**Initialization**
+### Initialization
 A sponge computer is initialized by:
 
 1. Arranging the 100 sponges in a 10x10 grid with their yellow sides facing up
@@ -37,10 +40,10 @@ A sponge computer is initialized by:
 3. Labeling each post-it with a letter A through P
 4. Placing a marker by the post-its
 
-**Operation**
+### Operation
 Sponge computer programs are printouts paper clipped together. Each page represents an instruction. Instructions are followed in order, and executed in full, one at a time. Note that some instructions may require moving forward or backward in the instruction pages. Execution is finished when there the last instruction in the stack is executed.
 
-**Programming Language**
+### Programming Language
 The language the sponge computer is programmed in resembles a simplified [assembly language](https://en.wikipedia.org/wiki/Assembly_language) for a contemporary computer. It has 10 instructions, consisting of arithmetic, comparisons, memory cell writing, jump, and plotting instructions. All instructions read inputs from memory cells and write results to memory cells, with the exception of the “set” instruction which additionally takes literal numbers as input.
 
 The full list of instructions is the following:
@@ -56,13 +59,13 @@ The full list of instructions is the following:
 - Greater Than: Compares the values of two memory cells and writes 1 in a third if the first value was greater than the second value
 - Jump: If a value in a cell is 1, instruction continues from the instruction with the number equal to the value of a given memory cell
 
-**Memory Model**
+### Memory Model
 The sponge computer is a simple [register machine](https://en.wikipedia.org/wiki/Register_machine). What is traditionally referred to as a “register” we refer to as a “memory cell”. It lacks any kind of memory beyond its sixteen memory cells, in which it stores temporary values, instruction jump addresses, and everything else. The cells are only allowed to contain integers, and the sponge computer is incapable of manipulating numbers with decimals (real numbers, or floating point numbers in computer hardware parlance). Notably, this means that division is [*truncating*](https://en.wikipedia.org/wiki/Truncation). 7 ÷ 2 =  3, not 3.5.
 
-**Turing Completeness**
+### Turing Completeness
 Within its bounded memory, the computer is [Turing complete](https://en.wikipedia.org/wiki/Turing_completeness#Non-mathematical_usage), meaning, from a theoretical perspective, it contains all the expressive power of any other programming language, including modern ones like JavaScript or C++. The jump, comparison, and set instructions are enough to simulate a Turing machine. This is important as this makes the sponge computer as “real” a computer as any other. It is not a simulation of computation, but rather *the real thing* on a smaller and slower level.
 
-**Infinite Loops**
+### Infinite Loops
 Due to the turing-completeness of the computer, programs that run forever (known as [nontermination or divergence](https://en.wikipedia.org/wiki/Divergence_(computer_science))) are both possible and impossible to predict or prevent. This is especially true given the margin of error that results from human interpretation. Programs should be tested in the emulator before running on hardware to confirm that they termination. If a program runs for longer than seems reasonable during an exercise, a computer may decide to stop, or it may be stopped by a facilitator.
 
 # The Emulator
@@ -87,24 +90,24 @@ Loading and scrubbing through examples is the best way to get a feel for the emu
 
 The window is divided into five sections, Code, Instruction Preview, Sponge Grid & Memory Cells, Printing & Execution, and Examples.
 
-**Code**
+### Code
 The top half of the left column is a text area where you can write sponge code. Each instruction is written on its own line. Each instruction is a simplified version of the full printed page that will be presented to students, and that is visible in the Preview section. When the Execution Scrubber is dragged left and right, the current line of execution will highlight.
 
-**Instruction Preview**
+### Instruction Preview
 
 ![](https://lh5.googleusercontent.com/vTt9AicZBWGD7sxXyoliV3BZ2H3FLYusWqg5rKY4zn655KOYH9VXuocpaBwNinBAPiGCA1DX2xl45fVfQxPAKWD9o31M8zYe5TMvATrWX24_UXd8nCU56FQWBsrAzlA9Oz_rUPoU)
 
 
 A preview of the currently selected instruction is displayed here. It corresponds to the actual printed page students will receive when doing the exercise. At the top left hand corner is a number indicating the number of the instruction in the sequence. In a circle on the left is the name of the instruction, and on the right is an English-language description of how to execute the instruction with specific values and memory cell names filled out.  
 
-**Sponge Grid and Memory Cells**
+### Sponge Grid and Memory Cells 
 
 ![](https://lh4.googleusercontent.com/OAhTi9H7YT3zIImvB64VzFR5-zaxN2hdZxAZZG0nRJiDivDaegNfrkwzSNg3MG3YumsF-8-s4j5BqwzishVquAehVQig6EojfR0cvc_vNJrYhhI419tHWhDKKOo-mDLRJ9zvcMCj)
 
 
 At the top of the right column is a visualization of the grid of sponges and the memory cells the students will be writing to and reading from. This displays the correct state of the sponges and cells according to the current step, and can be used to debug problems. Scrubbing the execution scrubber will update this area automatically.
 
-**Printing & Execution**
+### Printing & Execution 
 Under the Memory Cells are the controls that allow you to print, execute, and scrub through the program. The print button will compile all instructions into a printable PDF and open a printer dialog for you. The play button will execute the code in the Code area. This happens automatically when you choose an example, but you will have to hit play again if you edit the code.
 
 Dragging the scrubber left and right will move change the "current step". This will update the visualization of the grid and memory cells, and the preview. It will also highlight the instruction in the Code section. The numbers to the right of the scrubber indicate the current step and the total number of steps.
@@ -112,7 +115,7 @@ Dragging the scrubber left and right will move change the "current step". This w
 ![](https://lh3.googleusercontent.com/7dWDSJLbu2nCSMSPdX7NbywISjoPpZf357AKnnOGwa0iYrEQWbgBCKAXRXA7ns9ca77cBHN3ThMvpLyJ9tpLzP-Rr-n4NHlG1SCQkECAN8ocu7Ajl053Qe9dPIhKZZFjLenkZwjd)
 
 
-**Examples**
+### Examples
 A drop down list of built in examples we have written that you can try out.
 
 # Why Sponge Computers?
@@ -141,7 +144,7 @@ It is important to stress that the World’s Slowest Computer is a *true compute
 1. Students can be assured that the movement of their hands and the decisions they make are *actual computation* and not a simulation or a performance of it
 2. Their experiences in the exercise *directly mirror* the operation of both conventional and theoretical computers
 
-**Some parallels to look out for**
+### Some parallels to look out for
 
 - Some teams will organize into an instruction reader, executor, and page turner, which is similar to the [fetch, decode, execute pipeline](https://en.wikipedia.org/wiki/Instruction_cycle) of many processors
 - Some teams will identify a group of looping instructions, figure out what the end result would be, and jump to that instead of continuing to read each instruction individually. This is similar to an [instruction cache](https://en.wikipedia.org/wiki/CPU_cache) and a [loop predictor](https://en.wikipedia.org/wiki/Branch_predictor) on x86 processors.
@@ -176,18 +179,17 @@ If you feel the need you adjust the pacing of this session, ensure that the exec
 ![](https://lh3.googleusercontent.com/SWaQIBjcjxvguVBsGxmUxAwPxFUQcH9OcwPaq2tqNLbBHVJ2OrQk_HrUcGZD8aWScxcUrEFXqkpOAQljV8lObC3YBGeQU883SawyAa2rli9gQhkbycDMwhytw7aT1-wCQueztlq4)
 
 
-
 - Programs can be long! Binder clips are a good way to keep them together. Avoid staples or any more permanent binding to allow students the opportunity to figure out ways to spread out and read the programs.
 - This exercise depends on secrecy! Make sure that the end result of a program is not known to anyone in the class beforehand. Do not label the stacks of paper either, and do not run the emulator before or during the execution of the program by the students. Instead, take good personal notes on the number of instructions and end result before hand so that you can assess your students’ progress.
 ## Typical Session
 
-**Setup (10 minutes)**
+### Setup (10 minutes)
 
 - Divide the class into groups of 3-5 students.
 - Have each group build a sponge computer by laying the sponges in a grid and preparing their tables (described in detail in Background & Context / The Computer / Initialization)
 - Explain each instruction they will see, and give examples of their uses (described in detail in Background & Context / The Computer / Assembly Language)
 
-**Execution (30 minutes)**
+### Execution (30 minutes)
 
 - Have a representative from each group come to the front of the class and receive a copy of the program. Make sure not to tell them what it does, and do not label the stack of code.
 - Instruct the groups not to look at the program yet.
@@ -198,7 +200,7 @@ If you feel the need you adjust the pacing of this session, ensure that the exec
 - Whenever a team calls “finished!”, record their time.
 - Their approximate clock speed in Hertz is the number of instructions the program should have taken (from the emulator) divided by the number of seconds the team actually took. It will usually be a very small number.
 
-**Discussion / Journaling (10 minutes)**
+### Discussion / Journaling (10 minutes)
 
 - Once finished, discuss the challenges they faced and how they overcame them. This can be carried out as a classroom discussion or journaling exercise. Good questions include:
     - Why did they make the decisions they made?
@@ -221,6 +223,7 @@ If you feel the need you adjust the pacing of this session, ensure that the exec
         - What is its resolution compared to a laptop screen? A phone screen?
         - How many colors can it represent compared to a practical screen?
 - You can use the emulator with the class now to run the program, step through it, and debug problems people may have had.
+
 ## Additional Sessions
 - Additional Sessions proceed as above but with a different program.
 - Later sessions can reference experiences in earlier sessions.

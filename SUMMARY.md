@@ -1,3 +1,4 @@
+* [Abstract Electronic Toys](abstract-electronic-toys/plan.md)
 * [Game Jam](game-jam/plan.md)
 * [Game Literacy](game-literacy/plan.md)
 * [Next Steps](next-steps/plan.md)
@@ -5,5 +6,4 @@
 * [Coding in Depth](coding-in-depth/plan.md)
 * [World's Slowest Computer](worlds-slowest-computer/plan.md)
 * [Brainstorming](brainstorming/plan.md)
-* [Abstract Electronic Toys](abstract-electronic-toys/plan.md)
 * [Buzzkill](buzzkill/plan.md)

@@ -1,19 +1,10 @@
 # Game Literacy Lesson Plan
 
-## To-Do List:
-[x] links to working versions of games
-    [ ] discussion points for each game @Ramsey N @K A 
-    [ ] criteria for future games (evergreen)
-    [ ] how to identify discussion points in games (evergreen)
-[ ] Discussion suggestions
-    [ ] Games through a critical lens
-
-
-# **Summary**
+# Summary
 
 One for the main goals of Playable Fashion, is to have the participants progress from just being consumers of games to producers of games. One of the most effective ways of doing that is getting students to start thinking and talking like game designers, in other words, expanding their game literacy.  In order to make games effectively, one must *play* games analytically. Just like film or creative writing students learn to watch movies and read literature with a critical nuanced eye, game design students must learn to do the same for their field. This module introduces students to the practices around playing games mindfully and critically in order to analyze, dissect, and learn from them. The experience is broken up into alternating game playing and discussion sections, where the discussion is meant to lead students beyond surface level analyses and towards deeper observations about the medium they want to become a part of.
 
-# **Learning Goals** 
+# Learning Goals
 - Learn how to talk and think like a game designer.
 - Start thinking about “what makes a good game.”
 - See games as part of culture and start to talk critically about them
@@ -21,13 +12,13 @@ One for the main goals of Playable Fashion, is to have the participants progress
 - Set the framework for conversations to come
 
 
-# **Prerequisites**
+# Prerequisites
 
 There are no prerequisites to teach this module, however, familiarity with games in general is a plus. 
 
-# **Context**
+# Context
 
-**Choosing Games**
+## Choosing Games
 A challenge with this module is that the actual games to play will change over time. While some will be timeless, others will be a product of the historical moment in which you teach the workshop. We will recommend the games we used when teaching Playable Fashion, but bear in mind that they may be dated and less meaningful by the time you use this content.
 
 This module is a good opportunity to demonstrate the wide range of what games can actually be. Depending on the class, there may be some assumptions that a “real game” is only a game played on a computer or console. When selecting games, try and throw unconventional examples into the mix when possible. Physical games, board games, and card games are an excellent complement to video games.
@@ -46,14 +37,13 @@ Try and keep up to date with what games are new and popular, as well as experime
 - https://boardgamegeek.com/ New and classic board games
 - http://www.comeoutandplay.org/ For larger physical games
 
-**Critique**
+### Critique
 Unlike the games, however, the *approach* to analyzing gameplay is truly timeless, and is the real thing to focus on in this module. Because this is a form of media criticism, there are no hard and fast rules for what is right or wrong. The goal is to expose students to long form analysis of games and gameplay so that they can, over time, develop their own personal sense of taste and be able to articulate it.
 
-**Why does this matter?**
+### Why does this matter?
 
-**Genres**
+### Genres
 
-# 
 ## Vocabulary
 
 This activity revolves around giving concrete terms to the abstract concepts behind the design of a game. This vocabulary will change from designer to designer, but covers the core ideas. It is a result of the training provided by the games-focused track at the Parsons Masters of Fine Arts in Design and Technology program, specifically as taught by Nicholas Fortugno and documented in [Rules of Play](https://www.amazon.com/Rules-Play-Design-Fundamentals-Press/dp/0262240459/ref=sr_1_1?ie=UTF8&qid=1497986137&sr=8-1&keywords=rules+of+play) by Katie Salen and Eric Zimmerman.
@@ -124,13 +114,14 @@ This activity revolves around giving concrete terms to the abstract concepts beh
 - Feedback Loops (positive and negative)
     - Rules that reenforce or discourage certain behaviors
     - *ex Mario Kart* The blue shell only targets the player in the first position and acts as a negative feedback loop to make staying in the lead hard
+
 ## Lesson Plan
 
 After an introductory session, gameplay sessions involve alternating between playing games and guided discussions about the play experience. The time spent playing and discussing can be adjusted based on the amount of time available to you, though we suggest they be about equal. We’ve played and discussed for 15 minutes in the past. We suggest you play the games before hand to get a feel for them.
 
 Perceptions on what a “real” game is — often violent, military themed, male-centric, so-called “hardcore” games —  can be troublesome and alienating to many. Use this activity as an opportunity to build a broader definition of games and gamers in your students. Make sure to include physical games, casual games, word games, board games, and as much else as you can in all discussions and conversations. Keep an eye out for someone who says they “do not play games” and offer them support. Likewise, keep an eye out for people putting down others’ games and steer the conversation in a more positive direction.
 
-**Introductory Session**
+### Introductory Session
 
 - Start the class by having everyone introduce a game that they play and like, and ask them why they like the game. 
     - Students might inadvertently reference aspects of this activity in their descriptions, so be alert for that. Being able to point back to something a student said earlier when learning new jargon is a good way to make it approachable.
@@ -139,7 +130,7 @@ Perceptions on what a “real” game is — often violent, military themed, mal
     - For each term, ask the students to provide their own examples from games they play.
     - Make sure to explore every term before starting to play.
 
-**Gameplay Session**
+### Gameplay Session 
 *For each game you want to play, proceed as follows*
 
 - Gameplay (15 minutes)
@@ -154,7 +145,7 @@ Perceptions on what a “real” game is — often violent, military themed, mal
     - The class may be tempted to discuss superficial aspects of the game, but try and guide them to a deeper conversation
     
 
-**Suggested Games**
+### Suggested Games
 *And discussion points*
 
 - Physical
