@@ -2,9 +2,9 @@
 
 # Summary
 
-The Buzzkill module is an introduction to wearable game controller and preview into the Playable Fashion program, using the Adafruit FLORA and Unity 3D development tools. Most people approach the program not knowing what a wearable game controller is, since there have not been many successful examples in consumer electronics. Participants are asked to make a pair of clapping glove controllers, and through modding a the demo game Buzzkill, we also touch upon game design and programming.
+The Buzzkill module is an introduction to wearable game controller and preview into the Playable Fashion program, using the Adafruit FLORA and Unity 3D development tools. Most people approach the program not knowing what a wearable game controller is, since there have not been many successful examples in consumer electronics. Participants are asked to make a pair of clapping glove controllers, and through modding a the demo game Buzzkill, we also touch upon game design and programming. 
 
-Our goal is to have the student leave the module being excited about this unexplored world of wearable game controllers, a peek into the tools and skills that are needed to make the games, and an understanding of what the entire Playable Fashion program is like.
+Our goal is to have the student leave the module being excited about this unexplored world of wearable game controllers, a peek into the tools and skills that are needed to make the games, and an understanding of what the entire Playable Fashion program is like. 
 
 # Learning Objectives
 - Introduction to Playable Fashion by creating a glove controller, using the FLORA, coding for Unity, and modding games
@@ -13,21 +13,21 @@ Our goal is to have the student leave the module being excited about this unexpl
 
 
 # Prerequisites
-- **The FLORA** Adafruit has a great tutorial to show how to set up the FLORA and to download code onto it using the Arduino IDE: [https://learn.adafruit.com/getting-started-with-flora/overview](https://learn.adafruit.com/getting-started-with-flora/overview). Also some basic knowledge of programming using the Arduino programming language will help — i.e., setting up variables, if statements, for loops, loading libraries and code structure).
+- **The FLORA** Adafruit has a great tutorial to show how to set up the FLORA and to download code onto it using the Arduino IDE: [https://learn.adafruit.com/getting-started-with-flora/overview](https://learn.adafruit.com/getting-started-with-flora/overview). Also some basic knowledge of programming using the Arduino programming language will help — i.e., setting up variables, if statements, for loops, loading libraries and code structure). 
 - **Unity** While no code will be written in Unity, knowledge of the game engine is important. At the very least an understanding of the interface and concepts are required to be able to effectively answer questions and guide students through the exercise. Unity’s own tutorials are a good place to start: https://unity3d.com/learn/tutorials/topics/interface-essentials
   - At the minimum check out video 1 under “Using the Unity Interface” and video 1 under ”Essential Unity Concepts". The remaining videos in that topic are strongly recommended, but not required.
 
 # Context
-## What are Wearable Game Controllers?
+## What are Wearable Game Controllers? 
 
-Most digital games we play are on game consoles like the Playstation or the XBox using a traditional game controller, or on the PC, using a keyboard and mouse. Nintendo Wii and Switch break the traditional controller mold a bit, but none of these controllers are wearable. There are examples like those used in [Laser Tag](https://en.wikipedia.org/wiki/Laser_tag), and consumer electronics, for example, the [Nintendo Power Glove from 1989](https://en.wikipedia.org/wiki/Power_Glove), or [the Essential Reality P5 Gaming Glove from 2002](https://www.youtube.com/watch?v=2P7H911-mkg). VR headsets are wearable, but they may not be considered controllers, as their main function is outputting images on a screen, rather than sensing direct interactions by the user. But in essence, wearable game controllers can be thought of a kind of controller that has yet to be thoroughly explored.
+Most digital games we play are on game consoles like the Playstation or the XBox using a traditional game controller, or on the PC, using a keyboard and mouse. Nintendo Wii and Switch break the traditional controller mold a bit, but none of these controllers are wearable. There are examples like those used in [Laser Tag](https://en.wikipedia.org/wiki/Laser_tag), and consumer electronics, for example, the [Nintendo Power Glove from 1989](https://en.wikipedia.org/wiki/Power_Glove), or [the Essential Reality P5 Gaming Glove from 2002](https://www.youtube.com/watch?v=2P7H911-mkg). VR headsets are wearable, but they may not be considered controllers, as their main function is outputting images on a screen, rather than sensing direct interactions by the user. But in essence, wearable game controllers can be thought of a kind of controller that has yet to be thoroughly explored. 
 
-Most people may not know what wearable game controllers are, but when we think about the developments in and miniaturization of technology, we can start imaging sensors and switches being embedded into things that we wear. If we think about the avatar in a video game, with wearable game controllers, we can “dress up” as the avatar and even play the games with physical gestures that the avatar may perform. Increasing popularity in cosplay, LARPing and Theater-game experiences show potential for costumes to have embedded sensors. This is an exciting time, where we can start to see emerging applications for wearable game controllers.
+Most people may not know what wearable game controllers are, but when we think about the developments in and miniaturization of technology, we can start imaging sensors and switches being embedded into things that we wear. If we think about the avatar in a video game, with wearable game controllers, we can “dress up” as the avatar and even play the games with physical gestures that the avatar may perform. Increasing popularity in cosplay, LARPing and Theater-game experiences show potential for costumes to have embedded sensors. This is an exciting time, where we can start to see emerging applications for wearable game controllers. 
 
 
-## Why Wearable Game Controllers?
+## Why Wearable Game Controllers? 
 
-Games, technology and fashion are interests that a lot of youth have. But without knowing how the technology works, or how it’s made, it is easy for anyone to remain consumers. Learning the technology, skills and thinking behind making these experimental games can help them become producers of games, rather than just consumers.
+Games, technology and fashion are interests that a lot of youth have. But without knowing how the technology works, or how it’s made, it is easy for anyone to remain consumers. Learning the technology, skills and thinking behind making these experimental games can help them become producers of games, rather than just consumers. 
 
 Moreover, because wearable game controllers are largely unexplored, it is a wonderful space for students to create their own innovative prototypes and explore what they envision the future of games and technology to be. And if we begin to identify that the video games are indeed stuck in a traditional controllers, console and monitor model, we can start to imagine bringing in the video game into our physical world. We can begin to ask: What if we had unique controllers for every video game that was made? As technology becomes more embedded into our physical world, will game interfaces also follow suit? Is this the future of games?
 
@@ -44,12 +44,12 @@ Buzzkill uses a controller that the students themselves construct, but still com
 
 ## Prototyping and Mastery of Tools and Materials
 
-When working on hands-on projects, it is important to experience the physical and tactile experience of fabricating a prototype. There are many details that can only be experienced first hand by the participant, and that no amount of textbooks or instructions can communicate. Understanding the nuances of a material or tool is the first step towards attaining mastery of the material or tool and ultimately being able to utilize them to be able to make any kind of prototype imagined. It is worth mentioning this at the end of the module in order to make this point more obvious, by pointing out certain characteristics of the tools and materials they’ve just used. For example, the rate at which the glue comes out of that specific glue gun, or how foam reacts to too much heat.
+When working on hands-on projects, it is important to experience the physical and tactile experience of fabricating a prototype. There are many details that can only be experienced first hand by the participant, and that no amount of textbooks or instructions can communicate. Understanding the nuances of a material or tool is the first step towards attaining mastery of the material or tool and ultimately being able to utilize them to be able to make any kind of prototype imagined. It is worth mentioning this at the end of the module in order to make this point more obvious, by pointing out certain characteristics of the tools and materials they’ve just used. For example, the rate at which the glue comes out of that specific glue gun, or how foam reacts to too much heat. 
 
 
 ## FLORA
 
-We will use [Adafruit’s FLORA](https://www.adafruit.com/product/659) which is an Arduino-based open source development tool specifically designed to be used for wearable technology projects. The “petals” on the perimeter of the FLORA allow alligator clips or conductive thread to be used to attach to various components. The FLORA is programmed using the Arduino IDE, with the Arduino Programming Language. A wonderful built-in feature of the FLORA is that it can act like a  [USB HID Keyboard](https://en.wikipedia.org/wiki/USB_human_interface_device_class). So it can be connected to any computer as any USB keyboard might be, and programmed to mimic any keyboard strokes or any mouse clicks.
+We will use [Adafruit’s FLORA](https://www.adafruit.com/product/659) which is an Arduino-based open source development tool specifically designed to be used for wearable technology projects. The “petals” on the perimeter of the FLORA allow alligator clips or conductive thread to be used to attach to various components. The FLORA is programmed using the Arduino IDE, with the Arduino Programming Language. A wonderful built-in feature of the FLORA is that it can act like a  [USB HID Keyboard](https://en.wikipedia.org/wiki/USB_human_interface_device_class). So it can be connected to any computer as any USB keyboard might be, and programmed to mimic any keyboard strokes or any mouse clicks. 
 
 
 ## Unity
@@ -63,37 +63,37 @@ We like teaching with Unity because it is the tool that we use ourselves in our 
 
 ## Worksheets and Guides
 
-The worksheets, whether physical printouts or digital files, are designed to guide the students to work autonomously, at their own pace, freeing the teacher to give individualized attention to students who need it. However, it helps to have teachers show a mini-demonstration of a craft/sewing step before students arrive at a step on the worksheet. Mini demonstrations are best conducted with a small group of students -- however many can gather around and visibly see the physical act of creating. This may require the instructor to break up the class into smaller groups when demonstrating. This method of having the teacher show a mini-demonstration at various times during a class is a popular teaching technique used in sewing classes and in other craft-based learning scenarios.
+The worksheets, whether physical printouts or digital files, are designed to guide the students to work autonomously, at their own pace, freeing the teacher to give individualized attention to students who need it. However, it helps to have teachers show a mini-demonstration of a craft/sewing step before students arrive at a step on the worksheet. Mini demonstrations are best conducted with a small group of students -- however many can gather around and visibly see the physical act of creating. This may require the instructor to break up the class into smaller groups when demonstrating. This method of having the teacher show a mini-demonstration at various times during a class is a popular teaching technique used in sewing classes and in other craft-based learning scenarios.  
 
-When handing out the worksheets, all materials and tools should be presented and their characteristics reviewed before the students start making their gloves. For example, when mentioning the copper fabric and alligator clips that they are electrically conductive, or when mentioning the adhesive paper emphasizing which is the rough glue side and which is the smooth paper side. This helps the student familiarize with the materials and tools before they dive in.
+When handing out the worksheets, all materials and tools should be presented and their characteristics reviewed before the students start making their gloves. For example, when mentioning the copper fabric and alligator clips that they are electrically conductive, or when mentioning the adhesive paper emphasizing which is the rough glue side and which is the smooth paper side. This helps the student familiarize with the materials and tools before they dive in. 
 
 <!-- [+Buzzkill Lesson Plan Outline](https://paper.dropbox.com/doc/Buzzkill-Lesson-Plan-Outline-qVc1QBlchl5NOs83pq4OM)  -->
 
 
 ## Correct Use of Tools and Safety
 
-Because of the use of the hot glue gun and iron, safety is an important concern and one that should be emphasized throughout its use. While it is important to point out the hazards of the tools and that they can cause burns, it is crucial to instill confidence in the student that when these tools are used correctly, they will not be hurt and the results will be as expected.
+Because of the use of the hot glue gun and iron, safety is an important concern and one that should be emphasized throughout its use. While it is important to point out the hazards of the tools and that they can cause burns, it is crucial to instill confidence in the student that when these tools are used correctly, they will not be hurt and the results will be as expected.  
 
   - Iron
-    - The plate is hot, so don’t touch the plate!
-    - Whenever you are done using it, set it upright so that the hot plate is not touching anything. Otherwise it might burn something or cause a fire.
-    - Keep the cord away from whatever you are ironing, so that it doesn’t get tangled up.
-    - When using the iron with the adhesive bond paper, the iron should be a dry iron, in other words the steam should be turned off.  Refer to the instructions for the adhesive bond paper for more information.
+    - The plate is hot, so don’t touch the plate! 
+    - Whenever you are done using it, set it upright so that the hot plate is not touching anything. Otherwise it might burn something or cause a fire. 
+    - Keep the cord away from whatever you are ironing, so that it doesn’t get tangled up. 
+    - When using the iron with the adhesive bond paper, the iron should be a dry iron, in other words the steam should be turned off.  Refer to the instructions for the adhesive bond paper for more information. 
     - Whenever ironing the adhesive, it’s important to only keep the iron on for 5 seconds. Otherwise the adhesive will melt too much and create a mess, and the foam will start to curl at the edges
-    - Iron should be used with a scrap piece of cotton between the iron and what is being ironed. This protects the prototype from direct heat, but also keeps from the adhesive from getting stuck and ruining the plate. The cloth must be cotton, because synthetics or even blends may melt or burn on the iron.  *note: the iron should be designated as a “craft” iron, as the plate will inevitably get messed up. Don’t use your home iron for this!*
+    - Iron should be used with a scrap piece of cotton between the iron and what is being ironed. This protects the prototype from direct heat, but also keeps from the adhesive from getting stuck and ruining the plate. The cloth must be cotton, because synthetics or even blends may melt or burn on the iron.  *note: the iron should be designated as a “craft” iron, as the plate will inevitably get messed up. Don’t use your home iron for this!* 
     - TURN OFF THE IRON WHEN EVERYONE IS DONE USING IT!
-
+    
   - Hot Glue Gun
     - The tip is hot, so don’t touch the tip!
-    - Whenever you are done using it, set it upright so that the hot tip is not touching anything. Otherwise it might burn something or cause a fire.
-    - Keep the cord away from whatever you are gluing, so that it doesn’t get tangled up.
-    - Glue gun glue especially on fabric can create a mess that is hard to fix. To avoid this, when gluing the pad onto the glove, it helps to just glue the center of the pad to the glove first. Then with the pad faced down on the table, peel back the fabric of the glove to expose the wrong side of the pad. Apply glue to the exposed wrong side of the pad, and then carefully lay the glove fabric over it. Wait a few seconds for it to solidify before picking it up from the table. Do this to the whole perimeter of the pad.
+    - Whenever you are done using it, set it upright so that the hot tip is not touching anything. Otherwise it might burn something or cause a fire. 
+    - Keep the cord away from whatever you are gluing, so that it doesn’t get tangled up. 
+    - Glue gun glue especially on fabric can create a mess that is hard to fix. To avoid this, when gluing the pad onto the glove, it helps to just glue the center of the pad to the glove first. Then with the pad faced down on the table, peel back the fabric of the glove to expose the wrong side of the pad. Apply glue to the exposed wrong side of the pad, and then carefully lay the glove fabric over it. Wait a few seconds for it to solidify before picking it up from the table. Do this to the whole perimeter of the pad. 
     - TURN OFF THE GLUE GUN WHEN EVERYONE IS DONE USING IT!
 
 
 # Materials (25 students)
 - Copper Fabric: Less EMF (1 yard) http://www.lessemf.com/fabric4.html#1212
-- Gloves:
+- Gloves: 
   - Home Depot (10 x pack = 25 pairs + 5 extra) http://www.homedepot.com/p/HANDS-ON-Cotton-Poly-All-Purpose-Brown-Jersey-3-Pack-CT7000-HOWG-L-3PK/202591309
     **OR**
   - Amazon(3 x pack = 25 pairs + 24 extra) https://www.amazon.com/dp/B005ETA2EG/ref=cm_sw_su_dp
@@ -114,38 +114,38 @@ Ideally, having a glue gun and iron per 5 students helps. Also, 1 scissors per p
 # Setting Up
 - Brightly lit room
 - Enough clear table space to work on
-- Prep computers with software:
+- Prep computers with software: 
   - Arduino IDE using this set up https://learn.adafruit.com/getting-started-with-flora/overview
   - Unity
     - Make sure every computer in the classroom is running *the same version* of Unity
     - To save time, have Unity already launched and open to the Buzzkill scene before class starts
 - Ensure that students know how to copy & paste code using the computers
-- Pass the worksheet pdf to students and print out at least the FIRST page of the worksheet, so that the student can cut out the templates. The sheet MUST be printed at 100% SCALE in order to retain the correct sizing of the template.
-- Setting up a different table for just the hot tools (iron and glue gun) can help make the learning space safer, because not only does it spatially separate it from the other work, but it helps the student identify that these tools require more careful use.
+- Pass the worksheet pdf to students and print out at least the FIRST page of the worksheet, so that the student can cut out the templates. The sheet MUST be printed at 100% SCALE in order to retain the correct sizing of the template. 
+- Setting up a different table for just the hot tools (iron and glue gun) can help make the learning space safer, because not only does it spatially separate it from the other work, but it helps the student identify that these tools require more careful use. 
 
 # Lesson Plan
 
 ## Session One
 
-- Demo of Buzzkill game.
+- Demo of Buzzkill game. 
 - [Show slideshow](https://docs.google.com/presentation/d/1rxPQSHi0s6109nhK67vPBoUwg4niOiSZkIdiC9rcYV0/edit?usp=sharing) [](https://docs.google.com/presentation/d/1rxPQSHi0s6109nhK67vPBoUwg4niOiSZkIdiC9rcYV0/edit?usp=sharing)(What is Playable Fashion, What is a Circuit, What is the FLORA, Intro to Coding for FLORA)
-- Making gloves with [the gloves worksheet](https://github.com/playablefashion/spl/raw/master/Buzzkill/PlayableFashionBuzzkillGloveWorksheet.pdf) - introduction to worksheets, materials, tools.
+- Making gloves with [the gloves worksheet](https://github.com/playablefashion/spl/raw/master/Buzzkill/PlayableFashionBuzzkillGloveWorksheet.pdf) - introduction to worksheets, materials, tools. 
 - Safety - hot glue guns, iron.
 - Showing demos at the start of each phase (in small groups so everyone can see).
   - 1st demo: ironing with protective piece of muslin/cotton, so iron does not get sticky. Ironing all layers together, paper removal from adhesive, trimming edges of pad, adhesive paper removal.
-  - 2nd demo: glue gunning pads to gloves. Using a method where you first glue the center part of the pad to the glove, then turning pad side down, lifting glove material to put glue along the edge of the pad, then pressing the glove material down. This is a cleaner, neater method of gluing.
-- Clipping alligator clips to gloves and FLORA.
+  - 2nd demo: glue gunning pads to gloves. Using a method where you first glue the center part of the pad to the glove, then turning pad side down, lifting glove material to put glue along the edge of the pad, then pressing the glove material down. This is a cleaner, neater method of gluing. 
+- Clipping alligator clips to gloves and FLORA. 
 - Upload code to FLORA. [https://raw.githubusercontent.com/playablefashion/spl/master/Buzzkill/Buzzkill-glove-code/Buzzkill-glove-code.ino](https://raw.githubusercontent.com/playablefashion/spl/master/Buzzkill/Buzzkill-glove-code/Buzzkill-glove-code.ino)
-- Referencing Computer sponge workshop when going through lines of code.
-- Having them then mod the code to type out their name when hands are clapped.
+- Referencing Computer sponge workshop when going through lines of code. 
+- Having them then mod the code to type out their name when hands are clapped. 
 - The FLORA can mimic a keyboard and the gloves can be mapped to the space bar. This can be demonstrated with the following one-button web browser games which use the space bar:
   - https://jackv24.itch.io/space-dash
   - [Cananbalt](http://adamatomic.com/canabalt/)
   - https://cozygamepals.itch.io/jump-doper
-- Discussion:
+- Discussion: 
   - How do we normally play video games?
   - What kind of interactions do traditional controllers provide?
-  - What other interactions, besides clapping, can you think of? Can two players interact with each other to make a game using the controllers?
+  - What other interactions, besides clapping, can you think of? Can two players interact with each other to make a game using the controllers? 
   - Is this the future?
 
 ## Session Two
@@ -246,7 +246,7 @@ Since there are so many image editing tools out there, and so many ways to integ
 5. Save the image in .png format with transparent background.
 
 If an introduction to an image editing tool is needed, [miniPaint](http://viliusle.github.io/miniPaint/) is a free, open image editing software that is easy to use and can be used online without having to download software.
-Here is a [guide for miniPaint](https://github.com/playablefashion/spl/blob/master/Buzzkill/miniPaint-Guide.md) to be used in this module.
+Here is a [guide for miniPaint](https://github.com/playablefashion/spl/blob/master/Buzzkill/miniPaint-Guide.md) to be used in this module. 
 
 
 
