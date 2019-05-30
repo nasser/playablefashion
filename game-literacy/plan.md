@@ -14,7 +14,7 @@ One for the main goals of Playable Fashion, is to have the participants progress
 
 # Prerequisites
 
-There are no prerequisites to teach this module, however, familiarity with games in general is a plus. 
+There are no prerequisites to teach this module, however, familiarity with games in general is a plus.
 
 # Context
 
@@ -123,14 +123,14 @@ Perceptions on what a “real” game is — often violent, military themed, mal
 
 ### Introductory Session
 
-- Start the class by having everyone introduce a game that they play and like, and ask them why they like the game. 
+- Start the class by having everyone introduce a game that they play and like, and ask them why they like the game.
     - Students might inadvertently reference aspects of this activity in their descriptions, so be alert for that. Being able to point back to something a student said earlier when learning new jargon is a good way to make it approachable.
 - Introduce the idea of playing games mindfully, the way a film student watches movies
 - Introduce the activity by going over the game literacy vocabulary. In a [slideshow](https://docs.google.com/presentation/d/1QP7UfFJMy-i_bGK8zhrqkXjizw3256O58z5BoL7qnHU/edit#slide=id.g6e8ffae44_035), take a minute to define each term, giving examples from games.
     - For each term, ask the students to provide their own examples from games they play.
     - Make sure to explore every term before starting to play.
 
-### Gameplay Session 
+### Gameplay Session
 *For each game you want to play, proceed as follows*
 
 - Gameplay (15 minutes)
@@ -143,7 +143,7 @@ Perceptions on what a “real” game is — often violent, military themed, mal
     - Lead the class in a discussion about the game they just played
     - Focus on deconstructing the game, linking it to the terminology, and comparing it to other games
     - The class may be tempted to discuss superficial aspects of the game, but try and guide them to a deeper conversation
-    
+
 
 ### Suggested Games
 *And discussion points*
@@ -170,7 +170,7 @@ Perceptions on what a “real” game is — often violent, military themed, mal
             - How do people bend or break the rules?
             - How does it affect the game?
     - [Hand slapping game](https://en.wikipedia.org/wiki/Red_hands)
-    - [Stand off/Balance Game](http://www.ultimatecampresource.com/site/camp-activity/stand-off-also-known-as-gladiator-hands-.html) 
+    - [Stand off/Balance Game](http://www.ultimatecampresource.com/site/camp-activity/stand-off-also-known-as-gladiator-hands-.html)
     - [Duck, Duck, Goose](https://en.wikipedia.org/wiki/Duck,_duck,_goose)
 - Free & digital
     - [Canabalt](http://adamatomic.com/canabalt/) (in browser)
@@ -213,13 +213,13 @@ Perceptions on what a “real” game is — often violent, military themed, mal
             - Does the way the pieces fall count as luck?
         - Mechanic
             - The gameplay is driven by a physics simulation, in addition to its rules. How does the physics simulation relate to the rules of the game?
-- Paid & digital 
+- Paid & digital
     - [Spelunky](http://www.spelunkyworld.com/) (PC, XBLA, PSN)
 - Board games
     - [Qoridor](https://www.amazon.com/Gigamic-5203-Quoridor-Classic-Game/dp/B00001NTXN)
 - Card Games
     - [Spit/Eurodeck](https://www.pagat.com/patience/spit.html)
-    - [President](https://www.pagat.com/climbing/president.html) / [Dai Fugo](https://www.pagat.com/climbing/daifugo.html) 
+    - [President](https://www.pagat.com/climbing/president.html) / [Dai Fugo](https://www.pagat.com/climbing/daifugo.html)
     - [Gin Rummy](https://www.pagat.com/rummy/ginrummy.html)
     - [Uno](https://en.wikipedia.org/wiki/Uno_(card_game))
     - [Dixit](https://www.amazon.com/Dixit-Cover-Art-May-Vary/dp/2914849656/ref=sr_1_1?s=toys-and-games&ie=UTF8&qid=1484871729&sr=1-1&keywords=dixit)
