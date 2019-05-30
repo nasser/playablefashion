@@ -1,9 +1,13 @@
-* [Abstract Electronic Toys](abstract-electronic-toys/plan.md)
-* [Game Jam](game-jam/plan.md)
-* [Game Literacy](game-literacy/plan.md)
-* [Next Steps](next-steps/plan.md)
-* [Fashion in Depth](fashion-in-depth/plan.md)
-* [Coding in Depth](coding-in-depth/plan.md)
-* [World's Slowest Computer](worlds-slowest-computer/plan.md)
-* [Brainstorming](brainstorming/plan.md)
+# Summary
+
+* [Introduction](README.md)
 * [Buzzkill](buzzkill/plan.md)
+* [Game Literacy](game-literacy/plan.md)
+* [Abstract Electronic Toys](abstract-electronic-toys/plan.md)
+* [Fashion in Depth](fashion-in-depth/plan.md)
+* [World's Slowest Computer](worlds-slowest-computer/plan.md)
+* [Coding in Depth](coding-in-depth/plan.md)
+* [Brainstorming](brainstorming/plan.md)
+* [Game Jam](game-jam/plan.md)
+* [Next Steps](next-steps/plan.md)
+
