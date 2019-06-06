@@ -67,9 +67,6 @@ The worksheets, whether physical printouts or digital files, are designed to gui
 
 When handing out the worksheets, all materials and tools should be presented and their characteristics reviewed before the students start making their gloves. For example, when mentioning the copper fabric and alligator clips that they are electrically conductive, or when mentioning the adhesive paper emphasizing which is the rough glue side and which is the smooth paper side. This helps the student familiarize with the materials and tools before they dive in.
 
-<!-- [+Buzzkill Lesson Plan Outline](https://paper.dropbox.com/doc/Buzzkill-Lesson-Plan-Outline-qVc1QBlchl5NOs83pq4OM)  -->
-
-
 ## Correct Use of Tools and Safety
 
 Because of the use of the hot glue gun and iron, safety is an important concern and one that should be emphasized throughout its use. While it is important to point out the hazards of the tools and that they can cause burns, it is crucial to instill confidence in the student that when these tools are used correctly, they will not be hurt and the results will be as expected.
@@ -155,10 +152,10 @@ Ideally, having a glue gun and iron per 5 students helps. Also, 1 scissors per p
 - Walk through of the Unity interface.
 - Explain the Scene Tab as the place they can visually edit their scenes
 - Demonstrate movement through 2D space e.g. panning and zooming.
-![Zoom: Ctrl + Left Mouse Button on macOS, Alt + Right Mouse Button on Windows](https://d2mxuefqeaa7sj.cloudfront.net/s_20413829A7DAB4BF27FC79B4539EF7DA8A4DF7317871F7E93F6985F8F7AF80F1_1498846815354_pan-zoom.gif)
+![Zoom: Ctrl + Left Mouse Button on macOS, Alt + Right Mouse Button on Windows](images/pan-zoom.gif)
 
 - Demonstrate manipulating objects, e.g. moving and rotating them.
-![](https://d2mxuefqeaa7sj.cloudfront.net/s_20413829A7DAB4BF27FC79B4539EF7DA8A4DF7317871F7E93F6985F8F7AF80F1_1498739031174_manipulate.gif)
+![](images/manipulate.gif)
 
 - Make sure everyone is comfortable in the Scene tab before moving on.
 - Explain the Game Tab as a preview of what players will see. It is controlled by the Main Camera object and is most active in Play Mode.
@@ -168,24 +165,24 @@ Ideally, having a glue gun and iron per 5 students helps. Also, 1 scissors per p
 - Explain the GameObject–Component relationship, highlighting that GameObjects are collections of Components, and Components specify the way a GameObject behaves. [Unity’s video](https://unity3d.com/learn/tutorials/topics/interface-essentials/game-objects-and-components?playlist=17090) on the subject is a good resource for this.
 - Demonstrate equivalence of moving objects in the scene tab and manipulating values in the object's transform component.
 - Have students hack values in the scene and observe the effects on the game. Some suggested hacks are listed below and mentioned in the digital worksheet.
-![](https://d2mxuefqeaa7sj.cloudfront.net/s_20413829A7DAB4BF27FC79B4539EF7DA8A4DF7317871F7E93F6985F8F7AF80F1_1498739046058_change-values.gif)
+![](images/change-values.gif)
 
 - Explain swapping out of sprites and importing assets from the internet, and have students do that.
   - Having students use Google images to search for new images to use in the game is ideal. If internet access is hard to come by, we’ve included an Art folder with art they can use instead.
-![](https://d2mxuefqeaa7sj.cloudfront.net/s_20413829A7DAB4BF27FC79B4539EF7DA8A4DF7317871F7E93F6985F8F7AF80F1_1498739058762_change-art.gif)
-![](https://d2mxuefqeaa7sj.cloudfront.net/s_20413829A7DAB4BF27FC79B4539EF7DA8A4DF7317871F7E93F6985F8F7AF80F1_1498739053312_add-art.gif)
+![](images/change-art.gif)
+![](images/add-art.gif)
 
 - Explain swapping out audio and have students do that.
 - Walk through the custom code briefly, mentioning lessons learned during the FLORA component and sponge computer.
 - Explain the how to modify the values of our custom components, and have students do that.
 - Suggested hacks
-![](https://d2mxuefqeaa7sj.cloudfront.net/s_20413829A7DAB4BF27FC79B4539EF7DA8A4DF7317871F7E93F6985F8F7AF80F1_1500345973314_faster-flies.gif)
+![](images/faster-flies.gif)
 
   - Make the flies go faster
     - Select all the “fly” objects under the “flies” object in the Hierarchy
     - Find the Looping Flight Script Component in the inspector
     - Change the Fly Speed property to 15
-![](https://d2mxuefqeaa7sj.cloudfront.net/s_20413829A7DAB4BF27FC79B4539EF7DA8A4DF7317871F7E93F6985F8F7AF80F1_1500346196506_different-flies.gif)
+![](images/different-flies.gif)
 
   - Make the fly differently
     - Select all the “fly” objects under the “flies” object in the Hierarchy
@@ -194,28 +191,28 @@ Ideally, having a glue gun and iron per 5 students helps. Also, 1 scissors per p
     - Scroll to the bottom of the inspector and click Add Component
     - Type SideToSideFlight and hit enter
     - Now select each fly object and give them different values for the properties under the Side To Side Flight
-![](https://d2mxuefqeaa7sj.cloudfront.net/s_20413829A7DAB4BF27FC79B4539EF7DA8A4DF7317871F7E93F6985F8F7AF80F1_1500346266287_look-flies.gif)
+![](images/look-flies.gif)
 
   - Change the way the flies look
     - Select all the “fly” objects under the “flies” object in the Hierarchy
     - Find the Sprite Renderer Component in the inspector
     - Click the small circle next to the box for the Sprite property
     - Choose a different image for the flies
-![](https://d2mxuefqeaa7sj.cloudfront.net/s_20413829A7DAB4BF27FC79B4539EF7DA8A4DF7317871F7E93F6985F8F7AF80F1_1500346301473_look-hands.gif)
+![](images/look-hands.gif)
 
   - Change the way the hands look
     - Select the “left hand” and “right hand” objects under the “hands” object in the Hierarchy
     - Find the Sprite Renderer Component in the inspector
     - Click the small circle next to the box for the Sprite property
     - Choose a different image for the hands
-![](https://d2mxuefqeaa7sj.cloudfront.net/s_20413829A7DAB4BF27FC79B4539EF7DA8A4DF7317871F7E93F6985F8F7AF80F1_1500346408204_clapzone.gif)
+![](images/clapzone.gif)
 
   - Make a bigger clap zone
     - Select the “clap zone” object in the Hierarchy
     - Find the Box Collider 2D Component in the Inspector
     - Increase the X property under size, watching the change in the Scene view
     - Increase the Y property under size, watching the change in the Scene view
-![](https://d2mxuefqeaa7sj.cloudfront.net/s_20413829A7DAB4BF27FC79B4539EF7DA8A4DF7317871F7E93F6985F8F7AF80F1_1500346478937_more-flies.gif)
+![](images/more-flies.gif)
 
 - Make more flies
   - Select all the “fly” objects under the “flies” object in the Hierarchy
@@ -233,7 +230,7 @@ Ideally, having a glue gun and iron per 5 students helps. Also, 1 scissors per p
   - Students becoming “bored” with their gloves and changing component values and asking how they could make their own controllers write their own components. This segues into our fashion and technology and coding in depth modules.
 
 
-![](https://d2mxuefqeaa7sj.cloudfront.net/s_20413829A7DAB4BF27FC79B4539EF7DA8A4DF7317871F7E93F6985F8F7AF80F1_1498739224145_remix.gif)
+![](images/remix.gif)
 
 
 ## Pipeline to Add Images to Game
