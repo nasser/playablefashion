@@ -140,7 +140,7 @@ As we become increasingly dependent on smart devices that are no longer limited 
 
 ## Option 2: Using Commercial Electronics
 *Use this option if you don’t have time to make custom boxes or aren’t familiar with Arduino and basic circuit building.*
-- GE Wireless doorbell. How to hack wireless doorbell: https://www.dropbox.com/s/4pst3fgk94xie1z/Hacking%20Doorbell.pdf?dl=0
+- GE Wireless doorbell. [How to hack wireless doorbell](pdfs/hacking-doorbell.pdf)
 
 
 - Conductive Materials and Objects
