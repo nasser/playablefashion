@@ -33,9 +33,9 @@ A good game for this activity has the following properties:
 Try and keep up to date with what games are new and popular, as well as experimental work, and less popular titles. Some places to keep an eye on are:
 
 
-- https://itch.io/ Lots of indie and web-accessible games
-- https://boardgamegeek.com/ New and classic board games
-- http://www.comeoutandplay.org/ For larger physical games
+- [https://itch.io/](https://itch.io/) Lots of indie and web-accessible games
+- [https://boardgamegeek.com/](https://boardgamegeek.com/) New and classic board games
+- [http://www.comeoutandplay.org/](http://www.comeoutandplay.org/) For larger physical games
 
 ### Critique
 Unlike the games, however, the *approach* to analyzing gameplay is truly timeless, and is the real thing to focus on in this module. Because this is a form of media criticism, there are no hard and fast rules for what is right or wrong. The goal is to expose students to long form analysis of games and gameplay so that they can, over time, develop their own personal sense of taste and be able to articulate it.
@@ -126,7 +126,7 @@ Perceptions on what a “real” game is — often violent, military themed, mal
 - Start the class by having everyone introduce a game that they play and like, and ask them why they like the game.
     - Students might inadvertently reference aspects of this activity in their descriptions, so be alert for that. Being able to point back to something a student said earlier when learning new jargon is a good way to make it approachable.
 - Introduce the idea of playing games mindfully, the way a film student watches movies
-- Introduce the activity by going over the game literacy vocabulary. In a [slideshow](https://docs.google.com/presentation/d/1QP7UfFJMy-i_bGK8zhrqkXjizw3256O58z5BoL7qnHU/edit#slide=id.g6e8ffae44_035), take a minute to define each term, giving examples from games.
+- Introduce the activity by going over the game literacy vocabulary. In a [slideshow](files/slideshow.pdf), take a minute to define each term, giving examples from games.
     - For each term, ask the students to provide their own examples from games they play.
     - Make sure to explore every term before starting to play.
 

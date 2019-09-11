@@ -30,14 +30,14 @@ It is also important to know there are many opportunities to show work that is m
 
 **More about Open Source hardware:** 
 
-- FLORA schematics https://learn.adafruit.com/getting-started-with-flora/downloads
-- Adruino FAQ (the very popular open source hardware FLORA technology is based on) https://www.arduino.cc/en/Main/FAQ
-- Open Source Hardware Association’s definition of open source hardware https://www.oshwa.org/definition/
-- Wikipedia entry on Open Source Hardware https://en.wikipedia.org/wiki/Open-source_hardware
+- FLORA schematics [https://learn.adafruit.com/getting-started-with-flora/downloads](https://learn.adafruit.com/getting-started-with-flora/downloads)
+- Adruino FAQ (the very popular open source hardware FLORA technology is based on) [https://www.arduino.cc/en/Main/FAQ](https://www.arduino.cc/en/Main/FAQ)
+- Open Source Hardware Association’s definition of open source hardware [https://www.oshwa.org/definition/](https://www.oshwa.org/definition/)
+- Wikipedia entry on Open Source Hardware [https://en.wikipedia.org/wiki/Open-source_hardware](https://en.wikipedia.org/wiki/Open-source_hardware)
 
 ## Materials
 
-The Adafruit FLORA budget pack is suitable for this module, because it comes with all the basic components and tools that allow for further exploration on various applications of the FLORA. https://www.adafruit.com/product/1405
+The Adafruit FLORA budget pack is suitable for this module, because it comes with all the basic components and tools that allow for further exploration on various applications of the FLORA. [https://www.adafruit.com/product/1405](https://www.adafruit.com/product/1405)
 
 
 - [FLORA main board](http://www.adafruit.com/products/659)
@@ -52,47 +52,44 @@ The Adafruit FLORA budget pack is suitable for this module, because it comes wit
 ### Session One: FLORA
 The following are links to information which can help you keep learning after the program is over. 
 
-**FLORA set up:** https://learn.adafruit.com/getting-started-with-flora/overview
+**FLORA set up:** [https://learn.adafruit.com/getting-started-with-flora/overview](https://learn.adafruit.com/getting-started-with-flora/overview)
 So you can set up wherever you want. 
 
-**FLORA tutorials:** https://learn.adafruit.com/getting-started-with-flora/flora-projects
+**FLORA tutorials:** [https://learn.adafruit.com/getting-started-with-flora/flora-projects](https://learn.adafruit.com/getting-started-with-flora/flora-projects)
 Adafruit makes the FLORA, and so there are many different tutorials for various projects on the website. 
 
-**Adafruit wearables forum:**  https://forums.adafruit.com/viewforum.php?f=51
+**Adafruit wearables forum:**  [https://forums.adafruit.com/viewforum.php?f=51](https://forums.adafruit.com/viewforum.php?f=51)
 Here, if you get stuck you can ask questions or find similar questions that have been answered. You can also help others when they have issues. 
 
-**Arduino website:** https://www.arduino.cc/
+**Arduino website:** [https://www.arduino.cc/](https://www.arduino.cc/)
 This is the open source hardware technology that the FLORA is based on. 
 
-**Arduino tutorials:** https://www.arduino.cc/en/Tutorial/HomePage
+**Arduino tutorials:** [https://www.arduino.cc/en/Tutorial/HomePage](https://www.arduino.cc/en/Tutorial/HomePage)
 Even though these tutorials are for the Arduino, they can also be modded to work with the FLORA. For example, on the FLORA the LED pin is 7, while on the Arduino Uno it is 13. Also, great place to learn more about the Adruino Programming language which is the language that is used to program the FLORA. 
 
-**LessEMF for conductive fabric:** https://lessemf.com/fabric.html
+**LessEMF for conductive fabric:** [https://lessemf.com/fabric.html](https://lessemf.com/fabric.html)
 A store with a great selection of conductive fabrics. 
 
-**Adafruit conductive materials including conductive thread:** https://www.adafruit.com/search?q=conductive The Adafruit store with all the conductive materials they sell.
+**Adafruit conductive materials including conductive thread:** [https://www.adafruit.com/search?q=conductive](https://www.adafruit.com/search?q=conductive) The Adafruit store with all the conductive materials they sell.
 
 
 ### Session Two: Unity
 
-- Follow the first two videos on http://unity3d.com/learn/tutorials/modules/beginner/live-training-archive/editor-basics
+- Follow the first two videos on [http://unity3d.com/learn/tutorials/modules/beginner/live-training-archive/editor-basics](http://unity3d.com/learn/tutorials/modules/beginner/live-training-archive/editor-basics)
 
 
 #### Festivals, Demos, Playtesting, Game Jams, Competitions
 It’s a good idea to go to these websites, and put your email address into their list, so that if there are any open calls or announcements about events, you will be in the know.
 
-
-- Come Out and Play Festival (NYC) (Festival for independent field games and digital games, must apply and be selected) http://www.comeoutandplay.org/
-- Indicade (CA) & Indiecade East (NYC) (Independent game exhibition/conference/competition, must apply and be selected) http://www.indiecade.com/
-- Alt.Ctrl.GDC (alternative controller exhibition at the annual Game Developer’s Conference, must apply and be selected) http://www.gdconf.com/events/altctrlgdc.html
-- NYU Game Center Playtest Thursdays http://gamecenter.nyu.edu/events/playtest-thursdays/
-- Playcrafting NYC Meetup https://www.meetup.com/gaming/
-- Alt Ctrl Game Jam(a worldwide game jam that happens over a weekend) http://altctrlgamejam.com/
-- Global Game Jam (a worldwide game jam that happens over a weekend) http://globalgamejam.org/
-- International Game Developer’s Association (there are local chapters too) http://www.igda.org/
-- Babycastles: NYC-based gallery and collective for independent games and art games.  http://babycastles.com/
-- Juegos Rancheros: An Austin-based community of independent game developers & fans, founded in 2011. http://juegosrancheros.com/
-- The Hand Eye Society: a Toronto not-for-profit dedicated to supporting and showcasing videogames made primarily as a form of creative expression. http://handeyesociety.com/
-- Dames Making Games: a Toronto-based space for genderqueer, nonbinary, femmes, Two Spirit people, and trans and cis women to create games freely. https://dmg.to/
-
-
+- Come Out and Play Festival (NYC) (Festival for independent field games and digital games, must apply and be selected) [http://www.comeoutandplay.org/](http://www.comeoutandplay.org/)
+- Indicade (CA) & Indiecade East (NYC) (Independent game exhibition/conference/competition, must apply and be selected) [http://www.indiecade.com/](http://www.indiecade.com/)
+- Alt.Ctrl.GDC (alternative controller exhibition at the annual Game Developer’s Conference, must apply and be selected) [http://www.gdconf.com/events/altctrlgdc.html](http://www.gdconf.com/events/altctrlgdc.html)
+- NYU Game Center Playtest Thursdays [http://gamecenter.nyu.edu/events/playtest-thursdays/](http://gamecenter.nyu.edu/events/playtest-thursdays/)
+- Playcrafting NYC Meetup [https://www.meetup.com/gaming/](https://www.meetup.com/gaming/)
+- Alt Ctrl Game Jam(a worldwide game jam that happens over a weekend) [http://altctrlgamejam.com/](http://altctrlgamejam.com/)
+- Global Game Jam (a worldwide game jam that happens over a weekend) [http://globalgamejam.org/](http://globalgamejam.org/)
+- International Game Developer’s Association (there are local chapters too) [http://www.igda.org/](http://www.igda.org/)
+- Babycastles: NYC-based gallery and collective for independent games and art games.  [http://babycastles.com/](http://babycastles.com/)
+- Juegos Rancheros: An Austin-based community of independent game developers & fans, founded in 2011. [http://juegosrancheros.com/](http://juegosrancheros.com/)
+- The Hand Eye Society: a Toronto not-for-profit dedicated to supporting and showcasing videogames made primarily as a form of creative expression. [http://handeyesociety.com/](http://handeyesociety.com/)
+- Dames Making Games: a Toronto-based space for genderqueer, nonbinary, femmes, Two Spirit people, and trans and cis women to create games freely. [https://dmg.to/](https://dmg.to/)

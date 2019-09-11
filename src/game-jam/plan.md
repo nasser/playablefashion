@@ -1,12 +1,12 @@
 # Game Jam
 
-- Day One Slides ([**on google docs**](https://docs.google.com/presentation/d/1vyZkDnhwG2WmTr1uvZhfUvXO3oEXQuSjiIfVJAP8Lq0/edit))
-- Day Two Slides ([**on google docs**](https://docs.google.com/presentation/d/14x_vDobmquLW1XRPJmaAhTj7pIhitMeEl9pW7e1Y170/edit))
+- [Day One Slides](files/slideshow-session-1.pdf)
+- [Day Two Slides](files/slideshow-session-2.pdf)
 
 - other game jams
-    - https://itch.io/jams
-    - http://www.indiegamejams.com/
-    - https://ldjam.com/
+    - [https://itch.io/jams](https://itch.io/jams)
+    - [http://www.indiegamejams.com/](http://www.indiegamejams.com/)
+    - [https://ldjam.com/](https://ldjam.com/)
 
 # Learning Goals
 - How to get a game finished
@@ -45,15 +45,12 @@ Game Jams are a great way to meet people, play new games, and get your own games
 ### Teams and Ideas
 *If the class is already divided into teams with game ideas, skip this*
 
-- Run a condensed [Brainstorming](/brainstorming) 
+- Run a condensed [Brainstorming](../brainstorming/plan.md) 
 
 ### Design Document
 
-- Have teams fill out a game design document with their idea
-https://www.dropbox.com/s/bszpjv5uyvuyn53/GDD.pdf?dl=0
+- Have teams fill out a game design document with their idea [GDD.pdf](files/GDD.pdf)
 
-
-[https://www.dropbox.com/s/bszpjv5uyvuyn53/GDD.pdf?dl=0](https://www.dropbox.com/s/bszpjv5uyvuyn53/GDD.pdf?dl=0)
 
 ### Simplification
 
@@ -63,9 +60,9 @@ https://www.dropbox.com/s/bszpjv5uyvuyn53/GDD.pdf?dl=0
     - Does your idea require a certain number of things? Can this number be reduced?
     - What parts of your idea are "content" (story, art) and what parts are mechanics?
     - Where can you introduce placeholders?
-        - Pre-made sound (freesound.org)
+        - Pre-made sound ([freesound.org](http://freesound.org))
         - Pre-made art ([http://kenney.nl/](http://kenney.nl/))
-        - Pre-made code (unity asset store)
+        - Pre-made code ([unity asset store](https://assetstore.unity.com/))
     - What is the minimum subset of your idea you need to make as a prototype?
     
 

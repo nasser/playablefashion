@@ -61,22 +61,22 @@ There is a growing trend in consumer electronics that make it harder for us to u
 
 For more information on the Right to Repair we suggest the following websites/articles: 
 
-- https://www.wired.com/2017/03/right-to-repair-laws/ Article highlighting the significance of right to repair laws at the time of this writing. 
+- [https://www.wired.com/2017/03/right-to-repair-laws/](https://www.wired.com/2017/03/right-to-repair-laws/) Article highlighting the significance of right to repair laws at the time of this writing. 
 - http://ifixit.org/right Excellent website that not only posts tear-downs and instructions on how to fix gadgets but also, offers information on why it’s important to be able to repair and upgrade our own devices. 
-- http://www.fixerscollective.org/ A local NYC community of fixers who meet and fix consumer electronics. 
+- [http://www.fixerscollective.org/](http://www.fixerscollective.org/) A local NYC community of fixers who meet and fix consumer electronics. 
 
 ### Security & Privacy
 The more we are aware of what is inside the black boxes around us, we can be knowledgeable, critical and ultimately can be more involved in and have a voice in how technology is being used in our world. Without awareness, our information, security and privacy can easily be used and compromised. There are those who may ignore this issue, because they believe, “I’m not doing anything wrong, I don’t have anything to hide,” but this is often the viewpoint of the majority and the privileged, and one that is naive and uninformed. 
 
-- Mass surveillance silences minority opinions, according to study https://www.washingtonpost.com/news/the-switch/wp/2016/03/28/mass-surveillance-silences-minority-opinions-according-to-study/ 
-- Wiretaps, data dumps and zero days: is digital privacy no longer possible? – video http://www.theguardian.com/world/video/2017/apr/04/wiretaps-data-dumps-and-zero-days-is-digital-privacy-no-longer-possible-video
+- Mass surveillance silences minority opinions, according to study [https://www.washingtonpost.com/news/the-switch/wp/2016/03/28/mass-surveillance-silences-minority-opinions-according-to-study/ ](https://www.washingtonpost.com/news/the-switch/wp/2016/03/28/mass-surveillance-silences-minority-opinions-according-to-study/ )
+- Wiretaps, data dumps and zero days: is digital privacy no longer possible? – video [http://www.theguardian.com/world/video/2017/apr/04/wiretaps-data-dumps-and-zero-days-is-digital-privacy-no-longer-possible-video](http://www.theguardian.com/world/video/2017/apr/04/wiretaps-data-dumps-and-zero-days-is-digital-privacy-no-longer-possible-video)
 
 As we become increasingly dependent on smart devices that are no longer limited to our phones, digital assistants and what are essentially devices that are the “Internet of Things”, our awareness of what is inside the “black boxes” and what they are capable of are more important than ever.  
 
-- The Privacy Threat From Always-On Microphones Like the Amazon Echo https://www.aclu.org/blog/free-future/privacy-threat-always-microphones-amazon-echo
-- 2015 The Year The Internet of Things Got Hacked https://www.wired.com/2015/12/2015-the-year-the-internet-of-things-got-hacked/
-- Wikileaks Dump Shows CIA Could Turn Smart TV’s into Listening Devices https://theintercept.com/2017/03/07/wikileaks-dump-shows-cia-could-turn-smart-tvs-into-listening-devices/
-- Great overview of IoT security and privacy concerns by Electronic Privacy Information Center https://epic.org/privacy/internet/iot/ 
+- The Privacy Threat From Always-On Microphones Like the Amazon Echo [https://www.aclu.org/blog/free-future/privacy-threat-always-microphones-amazon-echo](https://www.aclu.org/blog/free-future/privacy-threat-always-microphones-amazon-echo)
+- 2015 The Year The Internet of Things Got Hacked [https://www.wired.com/2015/12/2015-the-year-the-internet-of-things-got-hacked/](https://www.wired.com/2015/12/2015-the-year-the-internet-of-things-got-hacked/)
+- Wikileaks Dump Shows CIA Could Turn Smart TV’s into Listening Devices [https://theintercept.com/2017/03/07/wikileaks-dump-shows-cia-could-turn-smart-tvs-into-listening-devices/](https://theintercept.com/2017/03/07/wikileaks-dump-shows-cia-could-turn-smart-tvs-into-listening-devices/)
+- Great overview of IoT security and privacy concerns by Electronic Privacy Information Center [https://epic.org/privacy/internet/iot/ ](https://epic.org/privacy/internet/iot/ )
 
 # Tools
 - Multimeter (to check circuits)
@@ -103,44 +103,44 @@ As we become increasingly dependent on smart devices that are no longer limited 
 
 
 - Base 
-    - ATmega328 chip https://www.sparkfun.com/products/10524
-    - 16mhz crystal clock  https://www.adafruit.com/product/2215 
+    - ATmega328 chip [https://www.sparkfun.com/products/10524](https://www.sparkfun.com/products/10524)
+    - 16mhz crystal clock  [https://www.adafruit.com/product/2215 ](https://www.adafruit.com/product/2215 )
     - 2 x 20pf capacitors *included in the link with crystal clock*
-    - 10k ohm resistor https://www.adafruit.com/product/2784
-    - Mini Bread Board https://www.adafruit.com/product/65
-    - Enclosure http://a.co/5E4zLzh *sized about 3” x 2” x 1” or larger. Container store is also an excellent source of plastic/wood, easily drilled boxes.* 
-    - Wires (22 AWG, solid core) https://www.adafruit.com/product/1311 
-    - Battery and battery holder https://www.sparkfun.com/products/10891
+    - 10k ohm resistor [https://www.adafruit.com/product/2784](https://www.adafruit.com/product/2784)
+    - Mini Bread Board [https://www.adafruit.com/product/65](https://www.adafruit.com/product/65)
+    - Enclosure [http://a.co/5E4zLzh *sized about 3” x 2” x 1” or larger. Container store is also an excellent source of plastic/wood, easily drilled boxes.* ](http://a.co/5E4zLzh *sized about 3” x 2” x 1” or larger. Container store is also an excellent source of plastic/wood, easily drilled boxes.* )
+    - Wires (22 AWG, solid core) [https://www.adafruit.com/product/1311 ](https://www.adafruit.com/product/1311 )
+    - Battery and battery holder [https://www.sparkfun.com/products/10891](https://www.sparkfun.com/products/10891)
     
 - Push Button Victory Tone
     - Base
         +
-    - Pushbutton (Arcade button) https://www.adafruit.com/product/472
-        *also very large push buttons are fun https://www.adafruit.com/product/1185*
-    - 10k ohm resistor for push button https://www.adafruit.com/product/2784
-    - Speaker http://www.jameco.com/z/GF0506X-Shogyo-International-Square-Ferrite-Speaker-2-8-ohm-1-4-Watt_2231161.html
-    - 100 ohm resistor for speaker http://a.co/gV7g6xI
+    - Pushbutton (Arcade button) [https://www.adafruit.com/product/472](https://www.adafruit.com/product/472)
+        *also very large push buttons are fun [https://www.adafruit.com/product/1185*](https://www.adafruit.com/product/1185*)
+    - 10k ohm resistor for push button [https://www.adafruit.com/product/2784](https://www.adafruit.com/product/2784)
+    - Speaker [http://www.jameco.com/z/GF0506X-Shogyo-International-Square-Ferrite-Speaker-2-8-ohm-1-4-Watt_2231161.html](http://www.jameco.com/z/GF0506X-Shogyo-International-Square-Ferrite-Speaker-2-8-ohm-1-4-Watt_2231161.html)
+    - 100 ohm resistor for speaker [http://a.co/gV7g6xI](http://a.co/gV7g6xI)
 
 
 - Push Button Counter
     - Base
         +
-    - 7 segment display https://www.amazon.com/uxcell-Cathode-Segment-Display-Digital/dp/B00EZBGUMC
+    - 7 segment display [https://www.amazon.com/uxcell-Cathode-Segment-Display-Digital/dp/B00EZBGUMC](https://www.amazon.com/uxcell-Cathode-Segment-Display-Digital/dp/B00EZBGUMC)
     - 1k ohm resistor for LED
-    - 10k ohm resistor for button https://www.adafruit.com/product/2784
-    - Push button (Tactile push button) https://www.adafruit.com/product/1010
+    - 10k ohm resistor for button [https://www.adafruit.com/product/2784](https://www.adafruit.com/product/2784)
+    - Push button (Tactile push button) [https://www.adafruit.com/product/1010](https://www.adafruit.com/product/1010)
     
 - Toggle Buzzer Vibration
     - 9V battery 
-    - Toggle Switches (3) http://www.jameco.com/z/GTS001-Toggle-Switch-Full-Single-Pole-Single-Throw-On-Off-Solder-125VDC-4-Amp-1-2-Inch-Mounting_76241.html
-    - 10k ohm resistors for switches https://www.adafruit.com/product/2784
-    - Vibration Motor https://www.amazon.com/gp/product/B00PZSOXHI
-    - Piezo buzzer https://www.amazon.com/gp/product/B01JA7IX0M
+    - Toggle Switches (3) [http://www.jameco.com/z/GTS001-Toggle-Switch-Full-Single-Pole-Single-Throw-On-Off-Solder-125VDC-4-Amp-1-2-Inch-Mounting_76241.html](http://www.jameco.com/z/GTS001-Toggle-Switch-Full-Single-Pole-Single-Throw-On-Off-Solder-125VDC-4-Amp-1-2-Inch-Mounting_76241.html)
+    - 10k ohm resistors for switches [https://www.adafruit.com/product/2784](https://www.adafruit.com/product/2784)
+    - Vibration Motor [https://www.amazon.com/gp/product/B00PZSOXHI](https://www.amazon.com/gp/product/B00PZSOXHI)
+    - Piezo buzzer [https://www.amazon.com/gp/product/B01JA7IX0M](https://www.amazon.com/gp/product/B01JA7IX0M)
 
 
 ## Option 2: Using Commercial Electronics
 *Use this option if you don’t have time to make custom boxes or aren’t familiar with Arduino and basic circuit building.*
-- GE Wireless doorbell. [How to hack wireless doorbell](pdfs/hacking-doorbell.pdf)
+- GE Wireless doorbell. [How to hack wireless doorbell](filed/hacking-doorbell.pdf)
 
 
 - Conductive Materials and Objects
@@ -191,7 +191,7 @@ It’s important to divide the module up into 2 sessions, and that the hacking s
     
 - Ice breaker: Turtle WuShu or Ninja to show games are not just video games
 - Rules for Turtle Wushu
-- Slides https://docs.google.com/presentation/d/1bQUZ48pJx09tx480jzq13IFsz-NTocEp6-fWEPaBAeY/edit?usp=sharing
+- [Slides](files/slideshow-session-1.pdf)
     - Basic Game Design concepts
     - Rulesets
     - Going over how to write Rulesets with Examples (UNO and Turtle Wushu)
@@ -213,12 +213,12 @@ It’s important to divide the module up into 2 sessions, and that the hacking s
   - How can this simple game be modded? Perhaps by changing the position and direction of the players chairs. Reverse the chairs so that the players are sitting with their backs facing each other. Put the chairs on the same side of the table, 15 ft away. Does this change the game? Put chair up by table like when you are dining. How does this change the game? 
   - How easy is it to identify who hit the button first? Why do we have a referee making the final calls? Put in a rule that makes it mandatory for the players to keep their hands on top of the button until the referee has looked it. 
   - Split into groups of 2-4 (?)
-  - Design 20 games using [Worksheet](https://drive.google.com/file/d/0Byy8LJ2Ug4SNdWQwdWF2YlM3WFdqSTQzOHB3c3FYV0lXUkFn/view)
+  - Design 20 games using [Worksheet](files/worksheet.pdf)
   - Review and playtest
     
 ## Session 2: Hacking boxes and making new interfaces with conductive materials and objects
   
-- Slides https://docs.google.com/presentation/d/1bQUZ48pJx09tx480jzq13IFsz-NTocEp6-fWEPaBAeY/edit?usp=sharing
+- [Slides](files/slideshow-session-2.pdf)
     - Going over components inside box
     - Making/breaking a circuit and how it exists everywhere
 - Overview Conductive Materials and Objects

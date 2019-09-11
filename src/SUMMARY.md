@@ -1,4 +1,4 @@
-- [Introduction](./README.md)
+[Introduction](./README.md)
 - [Buzzkill](./buzzkill/plan.md)
 - [Game Literacy](./game-literacy/plan.md)
 - [Abstract Electronic Toys](./abstract-electronic-toys/plan.md)

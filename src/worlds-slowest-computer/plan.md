@@ -12,7 +12,7 @@
 ## Tools (for 15 students)
 - Sponge Computer & Emulator
     - Emulator interface
-    - The code is available at http://nas.sr/sponge
+    - The code is available at [http://nas.sr/sponge](http://nas.sr/sponge)
 - 100x Yellow/green sponges x 3 groups of 5 students
 - Markers
 - Stopwatch
@@ -60,7 +60,7 @@ The full list of instructions is the following:
 - Jump: If a value in a cell is 1, instruction continues from the instruction with the number equal to the value of a given memory cell
 
 ### Memory Model
-The sponge computer is a simple [register machine](https://en.wikipedia.org/wiki/Register_machine). What is traditionally referred to as a “register” we refer to as a “memory cell”. It lacks any kind of memory beyond its sixteen memory cells, in which it stores temporary values, instruction jump addresses, and everything else. The cells are only allowed to contain integers, and the sponge computer is incapable of manipulating numbers with decimals (real numbers, or floating point numbers in computer hardware parlance). Notably, this means that division is [*truncating*](https://en.wikipedia.org/wiki/Truncation). 7 ÷ 2 =  3, not 3.5.
+The sponge computer is a simple [register machine](https://en.wikipedia.org/wiki/Register_machine). What is traditionally referred to as a “register” we refer to as a “memory cell”. It lacks any kind of memory beyond its sixteen memory cells, in which it stores temporary values, instruction jump addresses, and everything else. The cells are only allowed to contain integers, and the sponge computer is incapable of manipulating numbers with decimals (real numbers, or floating point numbers in computer hardware parlance). Notably, this means that division is [*truncating*](https://en.wikipedia.org/wiki/Truncation). 7 ÷ 2 = 3, not 3.5.
 
 ### Turing Completeness
 Within its bounded memory, the computer is [Turing complete](https://en.wikipedia.org/wiki/Turing_completeness#Non-mathematical_usage), meaning, from a theoretical perspective, it contains all the expressive power of any other programming language, including modern ones like JavaScript or C++. The jump, comparison, and set instructions are enough to simulate a Turing machine. This is important as this makes the sponge computer as “real” a computer as any other. It is not a simulation of computation, but rather *the real thing* on a smaller and slower level.
@@ -73,7 +73,7 @@ Due to the turing-completeness of the computer, programs that run forever (known
 The World's Slowest Computer is based on [an emulator](http://nas.sr/sponge) (available at [http://nas.sr/sponge](http://nas.sr/sponge)) that allows you to develop Sponge code on your computer and verify that it does what you want it to do before you execute it on real hardware (the sponges and the students). The emulator is online, and comes with a few programs built in to explore and study. The emulator works best in Google Chrome.
 
 
-![](https://lh5.googleusercontent.com/qNoItT2eHFF8vI7Wy1zu-watDrSQO7SLX7NGcJLLNRnOhC739yGplZn5icdExDkLZDElcsNcOpzyxMmXqu-RlJb1dmPrk5V0tJy3-nhysm4ICZFZk94FkCqm6kZRUxU-vt8ZAwff)
+![](images/emulator.png)
 
 
 Sponge programs can be executed and stepped through, meaning you can move backwards and forwards through the execution to better understand it. The sponges and memory cells are visualized and updated as needed.
@@ -95,14 +95,14 @@ The top half of the left column is a text area where you can write sponge code. 
 
 ### Instruction Preview
 
-![](https://lh5.googleusercontent.com/vTt9AicZBWGD7sxXyoliV3BZ2H3FLYusWqg5rKY4zn655KOYH9VXuocpaBwNinBAPiGCA1DX2xl45fVfQxPAKWD9o31M8zYe5TMvATrWX24_UXd8nCU56FQWBsrAzlA9Oz_rUPoU)
+![](images/instruction.png)
 
 
 A preview of the currently selected instruction is displayed here. It corresponds to the actual printed page students will receive when doing the exercise. At the top left hand corner is a number indicating the number of the instruction in the sequence. In a circle on the left is the name of the instruction, and on the right is an English-language description of how to execute the instruction with specific values and memory cell names filled out.  
 
 ### Sponge Grid and Memory Cells 
 
-![](https://lh4.googleusercontent.com/OAhTi9H7YT3zIImvB64VzFR5-zaxN2hdZxAZZG0nRJiDivDaegNfrkwzSNg3MG3YumsF-8-s4j5BqwzishVquAehVQig6EojfR0cvc_vNJrYhhI419tHWhDKKOo-mDLRJ9zvcMCj)
+![](images/grid-and-memory.png)
 
 
 At the top of the right column is a visualization of the grid of sponges and the memory cells the students will be writing to and reading from. This displays the correct state of the sponges and cells according to the current step, and can be used to debug problems. Scrubbing the execution scrubber will update this area automatically.
@@ -112,7 +112,7 @@ Under the Memory Cells are the controls that allow you to print, execute, and sc
 
 Dragging the scrubber left and right will move change the "current step". This will update the visualization of the grid and memory cells, and the preview. It will also highlight the instruction in the Code section. The numbers to the right of the scrubber indicate the current step and the total number of steps.
 
-![](https://lh3.googleusercontent.com/7dWDSJLbu2nCSMSPdX7NbywISjoPpZf357AKnnOGwa0iYrEQWbgBCKAXRXA7ns9ca77cBHN3ThMvpLyJ9tpLzP-Rr-n4NHlG1SCQkECAN8ocu7Ajl053Qe9dPIhKZZFjLenkZwjd)
+![](images/printing-and-execution.png)
 
 
 ### Examples
@@ -176,7 +176,7 @@ If you feel the need you adjust the pacing of this session, ensure that the exec
 - Before each session, print out the programs that you want the computers to execute. You can choose from one of the PDFs listed above, print out a program from the emulator, or even write your own.
 - Print out one copy of each program per group. Groups should be 3-5 students large, so plan accordingly depending on the size of your class.
 - Note the number of instructions for each program, listed next to the the scrubber in the emulator. You will need this when measuring the students’ speed of the execution.
-![](https://lh3.googleusercontent.com/SWaQIBjcjxvguVBsGxmUxAwPxFUQcH9OcwPaq2tqNLbBHVJ2OrQk_HrUcGZD8aWScxcUrEFXqkpOAQljV8lObC3YBGeQU883SawyAa2rli9gQhkbycDMwhytw7aT1-wCQueztlq4)
+![](images/preparation.png)
 
 
 - Programs can be long! Binder clips are a good way to keep them together. Avoid staples or any more permanent binding to allow students the opportunity to figure out ways to spread out and read the programs.

@@ -4,7 +4,7 @@
 
 This module is designed around an Asteroids clone. The player controls a ship with the keyboard keys, rotating with left and right, moving forward and backward with up and down, firing bullets with the space bar, and must destroy a field of asteroids in order to win. Each asteroid spawns three smaller asteroids when destroyed, and the smaller asteroids do not spawn anything. If the user touches an asteroid, they lose. The class will write the code to add an enemy to the game with basic AI that will follow the player and fire bullets at them.
 
-![](https://d2mxuefqeaa7sj.cloudfront.net/s_02986F66D20964F9BB6F25081A8646F27F4CE29D977FD708E3973173FB7632C8_1487446978007_file.png)
+![](images/s_02986F66D20964F9BB6F25081A8646F27F4CE29D977FD708E3973173FB7632C8_1487446978007_file.png)
 
 
 It is designed to be hit all of the major corners of Unity while remaining hackable. The components are well commented and designed to be interchanged. The package also comes with a lot of free art from kenney.nl that students can use while customizing the game.
@@ -59,7 +59,7 @@ Students will be introduced to Unity by tweaking an existing game to turn it int
 - Describe Unity concepts
     - Unity’s core idea is: everything in your game is a *GameObject*, and you tell GameObjects how to act and how to look by attaching *Components* to them.
         - Illustrations along the lines of the following might help: 
-![](https://d2mxuefqeaa7sj.cloudfront.net/s_02986F66D20964F9BB6F25081A8646F27F4CE29D977FD708E3973173FB7632C8_1487449484328_file.png)
+![](images/s_02986F66D20964F9BB6F25081A8646F27F4CE29D977FD708E3973173FB7632C8_1487449484328_file.png)
 
         - GameObjects are only *containers* for Components. They do almost nothing on their own aside from hold on to a name, layer, tag and a few other bits of data.
         - All GameObjects are *the same* in the way that all supermarket bags are the same. They’re different only in what they *contain*, sometimes groceries, sometimes garbage, same bags.
@@ -87,11 +87,11 @@ Students will be introduced to Unity by tweaking an existing game to turn it int
             - This is also a good place to point out that there are two different kinds of components: the ones built into unity, and the scripts that we write using code.
                 - Unity’s components are general, and designed around things that most games need
                 - Scripts are more specific and make up the unique aspects of our game
-![](https://d2mxuefqeaa7sj.cloudfront.net/s_02986F66D20964F9BB6F25081A8646F27F4CE29D977FD708E3973173FB7632C8_1487448828053_file.png)
+![](images/s_02986F66D20964F9BB6F25081A8646F27F4CE29D977FD708E3973173FB7632C8_1487448828053_file.png)
 
-![](https://d2mxuefqeaa7sj.cloudfront.net/s_02986F66D20964F9BB6F25081A8646F27F4CE29D977FD708E3973173FB7632C8_1487449116927_file.png)
+![](images/s_02986F66D20964F9BB6F25081A8646F27F4CE29D977FD708E3973173FB7632C8_1487449116927_file.png)
 
-![](https://d2mxuefqeaa7sj.cloudfront.net/s_02986F66D20964F9BB6F25081A8646F27F4CE29D977FD708E3973173FB7632C8_1487449300477_file.png)
+![](images/s_02986F66D20964F9BB6F25081A8646F27F4CE29D977FD708E3973173FB7632C8_1487449300477_file.png)
 
 - TODO Prefabs
 - Play the game
@@ -142,7 +142,7 @@ Students will be introduced to Unity by tweaking an existing game to turn it int
 ## Session 3 
 - Scripting
 - Colliders, Hitboxes
-- [Street Fighter Example](https://images.duckduckgo.com/iu/?u=http%3A%2F%2F2.bp.blogspot.com%2F-tORuFbv6pfg%2FTjiXuI7vbYI%2FAAAAAAAABZw%2F8c-5cvTg_sk%2Fs1600%2FHitBox.bmp&f=1)
+- [Street Fighter Example](images/streetfighter.jpeg)
 - Deleting Objects
 - Expose as many variables as possible
 - Goals:
@@ -167,7 +167,7 @@ Unity is designed around a particular set of ideas meant to make your work as a 
 
 The core idea behind Unity is that most games are full of “things” that interact with each other in different ways over time. For example, some of the “things” in Asteroids are the player’s ship, the asteroids, and the player’s bullets. The way they interact with each depends on which “things” they are and what events are happening in the game. For example, when a bullet touches an asteroid, the asteroid disappears, and is replaced with three smaller asteroids. Most games can be described by different “things” and how they interact.
 
-![](https://darkroom.shortlist.com/980/92ebd419af34785cb4cb07834a754126:8e2d9ee607dc900ee9c807a03484ad69/atari.jpg)
+![](images/atari.jpg)
 
 
 **Exercise** Have the class identify “things” and interactions in other games, and suggest your own.

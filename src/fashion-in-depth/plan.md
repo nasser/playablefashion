@@ -1,6 +1,6 @@
 # Fashion in Depth Lesson Plan
 
-![Embroidery Hoop and Glove](https://d2mxuefqeaa7sj.cloudfront.net/s_19461AB3BA2A7B7841EE7B1041889C86955BA965B5B0D87ADB915B48A0068311_1493314333038_C7QB1XMXQAI4q1r.jpg_large.jpeg)
+![Embroidery Hoop and Glove](images/s_19461AB3BA2A7B7841EE7B1041889C86955BA965B5B0D87ADB915B48A0068311_1493314333038_C7QB1XMXQAI4q1r.jpg_large.jpeg)
 
 Fashion in Depth is a module which explores and builds the foundation for the materials and concepts behind soft circuits and electronics, wearable technology and the use of wearable technology prototyping/development tool *du jour* ([Adafruit’s FLORA](https://www.adafruit.com/products/659)).  The participants are lead through a series of demonstrations and exercises, with the goal for everyone to arrive at the same point by the end of the module, having learned the same basic skills, techniques and concepts, so that they are prepared to create their own prototypes collaboratively. 
 
@@ -62,16 +62,16 @@ Interaction, game mechanics and costume as interface
 
 
 ## Worksheets
-[Basic Sewing and Stitches Reference site](https://kahodesu.github.io/PF/)
-[PF Fashion In Depth Soft Button.pdf](https://www.dropbox.com/s/rszqw91u6875yd8/PF%20Fashion%20In%20Depth%20Soft%20Button.pdf?dl=0) 
-[PF Fashion In Depth Glove.pdf](https://www.dropbox.com/s/4xdcfy7uerak4yd/PF%20Fashion%20In%20Depth%20Glove.pdf?dl=0)
+* [Basic Sewing and Stitches Reference site](https://kahodesu.github.io/PF/)
+* [PF Fashion In Depth Soft Button.pdf](files/soft-button.pdf) 
+* [PF Fashion In Depth Glove.pdf](files/glove.pdf)
 
 ## Code for FLORA
 It is intended for the student to mod the initial button code for the glove interface, and then frankenstein the Neopixel library example to arrive at the final code. The code below is for instructor’s reference or if there is limited time. 
 
-[PF Fashion Button Code](https://raw.githubusercontent.com/kahodesu/PF-Fashion-FLORA/master/PF_Fashion_Button/PF_Fashion_Button.ino) 
-[PF Fashion Button and Glove Code](https://raw.githubusercontent.com/kahodesu/PF-Fashion-FLORA/master/PF_Fashion_Btn_and_Glove/PF_Fashion_Btn_and_Glove.ino)
-[PF All Together Code](https://raw.githubusercontent.com/kahodesu/PF-Fashion-FLORA/master/PF_All_Together/PF_All_Together.ino)
+* [PF Fashion Button Code](files/PF_Fashion_Button.ino) 
+* [PF Fashion Button and Glove Code](files/PF_Fashion_Btn_and_Glove.ino)
+* [PF All Together Code](files/PF_All_Together.ino)
 
 
 - PF Fashion Button: This code is first used when the inner soft felt button is made. The onboard FLORA LED (not the onboard Neopixel) should light up when the button is pressed. 
@@ -83,7 +83,7 @@ Depending on the version of your IDE, you may or may not have to import the keyb
 **Keyboard** and **Debounce** functions have been commented out, but can be easily activated if un-commented. **Keyboard** code allows the FLORA to be used as a HID keyboard. The spacebar is a nice demo, since you can immediately play spacebar web games like [Canabalt](http://adamatomic.com/canabalt/) and check that the soft button works. **Debounce** is a method of double checking that a circuit was made, which is useful for hand made interfaces. A **delay()** can also be added if the switches are too sensitive. 
 
 
-![](https://d2mxuefqeaa7sj.cloudfront.net/s_19461AB3BA2A7B7841EE7B1041889C86955BA965B5B0D87ADB915B48A0068311_1493948936849_Screen+Shot+2017-05-04+at+8.59.36+PM.png)
+![](images/s_19461AB3BA2A7B7841EE7B1041889C86955BA965B5B0D87ADB915B48A0068311_1493948936849_Screen+Shot+2017-05-04+at+8.59.36+PM.png)
 
 
 If you get this error, press the reset button on the FLORA immediately after you upload the code and wait for upload to complete. 
@@ -104,8 +104,8 @@ If you get this error, press the reset button on the FLORA immediately after you
 - Check visibility of code/text on class screen/monitor. The scale can usually be set through the display preferences on the computer or through the Editor font size settings on the Arduino IDE preferences. 
 - Preparing Neopixels strips, if you are using them, by cutting them into groups of 3, then punching 3 holes at the end (at ground, 3.3v and data) with an awl to allow for the conductive thread to be sewn into them. 
 - When printing the embroidery hoop fabric, you must use an ink jet printer. Precut the fabric into 8.5” x 8.5” squares and use the custom paper feeder to feed into the printer. Choose custom paper size at 8” x 8”. If the printing paper settings are set to “cardstock”, it helps the fabric pass through easier. Some printers may have a fabric setting. **THE SCALING MUST BE SET TO 100%** or the printed image will be too small to fit onto the hoop. Print quality should be set on the highest, otherwise it will look faded. Here are the PDF’s for printing - one is for the single neopixels and the other for the neopixel strip: 
-    - [PF Fashion In Depth Hoop using Single Neopixels](https://www.dropbox.com/s/oi4gvwzposa7ums/PF%20Fashion%20in%20Depth%20Hoop%20Singles.pdf?dl=0)
-    - [PF Fashion In Depth Hoop using Neopixel Strip](https://www.dropbox.com/s/1uqdw5y4b3piyxp/PF%20Fashion%20in%20Depth%20Hoop%20Strip.pdf?dl=0)
+    - [PF Fashion In Depth Hoop using Single Neopixels](files/hoop-single.pdf)
+    - [PF Fashion In Depth Hoop using Neopixel Strip](files/hoop-strip.pdf)
 - Print out extra copies of the first page of the glove worksheet so that the templates can be cut out of them. When printing, **THE SCALING MUST BE SET TO 100%** or the printed image will be the wrong size. 
 - Playing music in the background while crafting can be relaxing and fun 🎵. 
 
@@ -154,7 +154,7 @@ If the budget or circumstance allows for this, it is recommended that the [FLORA
 
 
 ## Session 1
-- Sample Slides: [](https://drive.google.com/open?id=1xNsspRqugWbuqfk-V6XpF8VZ8YrvCFltP5fkKXTFcFo)[https://docs.google.com/presentation/d/13YvG-qiIHMZGZVE9HH3bDtqC4SSnco9zX3TGkr5RKt0/edit?usp=sharing](https://drive.google.com/open?id=1xNsspRqugWbuqfk-V6XpF8VZ8YrvCFltP5fkKXTFcFo)
+- [Sample Slides](files/sample-slides.pdf)
 - Prepare embroidery hoop: stretch fabric over as taut as possible without having rings fall apart. Should make a nice sound when hit gently like a drum. 
 - Introduction to Arduino IDE by uploading DigitalInputPullup example to FLORA, reviewing UI (save as, download, examples/sketch folders).
 - demonstrate code works with just alligator clips, and that a circuit can be made just by bringing the ends of the alligator clips together, when code is modded to have LED pin at 7 and digitalRead at pin 10.
@@ -168,7 +168,7 @@ If the budget or circumstance allows for this, it is recommended that the [FLORA
 
 ## Session 3
 - Upload code for button and review.
-- Discuss use of libraries for FLORA. ****
+- Discuss use of libraries for FLORA.
 - Discuss Debounce and Keyboard capabilities, and how to activate by un-commenting.
 
 ## Session 4

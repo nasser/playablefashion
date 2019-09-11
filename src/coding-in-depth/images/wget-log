@@ -1,0 +1,17 @@
+--2019-09-11 18:49:05--  https://images.duckduckgo.com/iu/?u=http%3A%2F%2F2.bp.blogspot.com%2F-tORuFbv6pfg%2FTjiXuI7vbYI%2FAAAAAAAABZw%2F8c-5cvTg_sk%2Fs1600%2FHitBox.bmp
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving images.duckduckgo.com (images.duckduckgo.com)... 107.20.240.232, 184.72.104.138, 23.21.193.169
+Connecting to images.duckduckgo.com (images.duckduckgo.com)|107.20.240.232|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2F2.bp.blogspot.com%2F-tORuFbv6pfg%2FTjiXuI7vbYI%2FAAAAAAAABZw%2F8c-5cvTg_sk%2Fs1600%2FHitBox.bmp [following]
+--2019-09-11 18:49:05--  https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2F2.bp.blogspot.com%2F-tORuFbv6pfg%2FTjiXuI7vbYI%2FAAAAAAAABZw%2F8c-5cvTg_sk%2Fs1600%2FHitBox.bmp
+Resolving proxy.duckduckgo.com (proxy.duckduckgo.com)... 23.21.193.199, 50.16.241.130
+Connecting to proxy.duckduckgo.com (proxy.duckduckgo.com)|23.21.193.199|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘index.html?u=http:%2F%2F2.bp.blogspot.com%2F-tORuFbv6pfg%2FTjiXuI7vbYI%2FAAAAAAAABZw%2F8c-5cvTg_sk%2Fs1600%2FHitBox.bmp’
+
+                             index.html?u=http:%2F%2F2.bp     [<=>                                                                                                                                ]       0  --.-KB/s               index.html?u=http:%2F%2F2.bp.blogspot.com%2F-tORuFbv6pfg%     [ <=>                                                                                                                               ]  89.60K  --.-KB/s    in 0.05s   
+
+2019-09-11 18:49:05 (1.94 MB/s) - ‘index.html?u=http:%2F%2F2.bp.blogspot.com%2F-tORuFbv6pfg%2FTjiXuI7vbYI%2FAAAAAAAABZw%2F8c-5cvTg_sk%2Fs1600%2FHitBox.bmp’ saved [91750]
+

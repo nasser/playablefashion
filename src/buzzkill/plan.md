@@ -89,16 +89,16 @@ Because of the use of the hot glue gun and iron, safety is an important concern 
 
 
 # Materials (25 students)
-- Copper Fabric: Less EMF (1 yard) http://www.lessemf.com/fabric4.html#1212
+- Copper Fabric: Less EMF (1 yard) [http://www.lessemf.com/fabric4.html#1212](http://www.lessemf.com/fabric4.html#1212)
 - Gloves:
-  - Home Depot (10 x pack = 25 pairs + 5 extra) http://www.homedepot.com/p/HANDS-ON-Cotton-Poly-All-Purpose-Brown-Jersey-3-Pack-CT7000-HOWG-L-3PK/202591309
+  - Home Depot (10 x pack = 25 pairs + 5 extra) [http://www.homedepot.com/p/HANDS-ON-Cotton-Poly-All-Purpose-Brown-Jersey-3-Pack-CT7000-HOWG-L-3PK/202591309](http://www.homedepot.com/p/HANDS-ON-Cotton-Poly-All-Purpose-Brown-Jersey-3-Pack-CT7000-HOWG-L-3PK/202591309)
     **OR**
-  - Amazon(3 x pack = 25 pairs + 24 extra) https://www.amazon.com/dp/B005ETA2EG/ref=cm_sw_su_dp
-- Adhesive Bonding Paper: Amazon (1 x roll) http://a.co/8CfSR3c
-- Craft Foam: Amazon (1 pack)  http://a.co/3GCBj5K
-- FLORA: Adafruit (35 x ) https://www.adafruit.com/product/659
-- USB cords for FLORA: Adafruit (25 x) https://www.adafruit.com/product/592
-- Alligator Clips: Adafruit ( 5 x pack = 60 clips, 2 per student + 10 extra) https://www.adafruit.com/product/1008
+  - Amazon(3 x pack = 25 pairs + 24 extra) [https://www.amazon.com/dp/B005ETA2EG/ref=cm_sw_su_dp](https://www.amazon.com/dp/B005ETA2EG/ref=cm_sw_su_dp)
+- Adhesive Bonding Paper: Amazon (1 x roll) [http://a.co/8CfSR3c](http://a.co/8CfSR3c)
+- Craft Foam: Amazon (1 pack)  [http://a.co/3GCBj5K](http://a.co/3GCBj5K)
+- FLORA: Adafruit (35 x ) [https://www.adafruit.com/product/659](https://www.adafruit.com/product/659)
+- USB cords for FLORA: Adafruit (25 x) [https://www.adafruit.com/product/592](https://www.adafruit.com/product/592)
+- Alligator Clips: Adafruit ( 5 x pack = 60 clips, 2 per student + 10 extra) [https://www.adafruit.com/product/1008](https://www.adafruit.com/product/1008)
 
 # Tools
 Ideally, having a glue gun and iron per 5 students helps. Also, 1 scissors per person helps, but can be a scissor per 2 students. Otherwise, there will a bottlenecking problem at the hot glue gun and iron stations.
@@ -112,7 +112,7 @@ Ideally, having a glue gun and iron per 5 students helps. Also, 1 scissors per p
 - Brightly lit room
 - Enough clear table space to work on
 - Prep computers with software:
-  - Arduino IDE using this set up https://learn.adafruit.com/getting-started-with-flora/overview
+  - Arduino IDE using this set up [https://learn.adafruit.com/getting-started-with-flora/overview](https://learn.adafruit.com/getting-started-with-flora/overview)
   - Unity
     - Make sure every computer in the classroom is running *the same version* of Unity
     - To save time, have Unity already launched and open to the Buzzkill scene before class starts
@@ -125,14 +125,14 @@ Ideally, having a glue gun and iron per 5 students helps. Also, 1 scissors per p
 ## Session One
 
 - Demo of Buzzkill game.
-- [Show slideshow](https://docs.google.com/presentation/d/1rxPQSHi0s6109nhK67vPBoUwg4niOiSZkIdiC9rcYV0/edit?usp=sharing) [](https://docs.google.com/presentation/d/1rxPQSHi0s6109nhK67vPBoUwg4niOiSZkIdiC9rcYV0/edit?usp=sharing)(What is Playable Fashion, What is a Circuit, What is the FLORA, Intro to Coding for FLORA)
-- Making gloves with [the gloves worksheet](https://github.com/playablefashion/spl/raw/master/Buzzkill/PlayableFashionBuzzkillGloveWorksheet.pdf) - introduction to worksheets, materials, tools.
+- [Show slideshow](files/buzzkill-sample-slideshow.pdf)(What is Playable Fashion, What is a Circuit, What is the FLORA, Intro to Coding for FLORA)
+- Making gloves with [glove-worksheet.pdf](files/glove-worksheet.pdf) - introduction to worksheets, materials, tools.
 - Safety - hot glue guns, iron.
 - Showing demos at the start of each phase (in small groups so everyone can see).
   - 1st demo: ironing with protective piece of muslin/cotton, so iron does not get sticky. Ironing all layers together, paper removal from adhesive, trimming edges of pad, adhesive paper removal.
   - 2nd demo: glue gunning pads to gloves. Using a method where you first glue the center part of the pad to the glove, then turning pad side down, lifting glove material to put glue along the edge of the pad, then pressing the glove material down. This is a cleaner, neater method of gluing.
 - Clipping alligator clips to gloves and FLORA.
-- Upload code to FLORA. [https://raw.githubusercontent.com/playablefashion/spl/master/Buzzkill/Buzzkill-glove-code/Buzzkill-glove-code.ino](https://raw.githubusercontent.com/playablefashion/spl/master/Buzzkill/Buzzkill-glove-code/Buzzkill-glove-code.ino)
+- Upload code to FLORA. [glove-code.ino](files/glove-code.ino)
 - Referencing Computer sponge workshop when going through lines of code.
 - Having them then mod the code to type out their name when hands are clapped.
 - The FLORA can mimic a keyboard and the gloves can be mapped to the space bar. This can be demonstrated with the following one-button web browser games which use the space bar:
@@ -243,7 +243,7 @@ Since there are so many image editing tools out there, and so many ways to integ
 5. Save the image in .png format with transparent background.
 
 If an introduction to an image editing tool is needed, [miniPaint](http://viliusle.github.io/miniPaint/) is a free, open image editing software that is easy to use and can be used online without having to download software.
-Here is a [guide for miniPaint](https://github.com/playablefashion/spl/blob/master/Buzzkill/miniPaint-Guide.md) to be used in this module.
+Here is a [guide for miniPaint](./miniPaint-Guide.md) to be used in this module.
 
 
 

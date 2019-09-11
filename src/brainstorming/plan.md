@@ -42,9 +42,9 @@ It is important to create a space that does not reject ideas, allows for mutual 
 It also may help to have the students name, define or identify the content of the rules together as a class. This gives them more ownership of the space, but also may keep concepts more current. The definition of a safe space has changed over the years, has gotten controversial, and even distorted. Perhaps another name for a space where students can speak and discuss openly, varying ideas should be used. 
  
 
-- Safe Space (?)  https://en.wikipedia.org/wiki/Safe-space
+- Safe Space (?)  [https://en.wikipedia.org/wiki/Safe-space](https://en.wikipedia.org/wiki/Safe-space)
 - Global Awareness. Being respectful of different identities, cultures, and languages.
-- Social Rules from the Recurse School. These rules are especially useful for learning environments associated with technology.  https://www.recurse.com/manual#sub-sec-social-rules
+- Social Rules from the Recurse School. These rules are especially useful for learning environments associated with technology.  [https://www.recurse.com/manual#sub-sec-social-rules](https://www.recurse.com/manual#sub-sec-social-rules)
     - No feigning surprise
     - No well-actually's
     - No back-seat driving
@@ -64,8 +64,8 @@ It also may help to have the students name, define or identify the content of th
 # Tools
 - The FishBowl is website where students can add as many youtube video links as they like, and once refreshed, it will randomly choose a youtube video. It is a digital version of picking something out of a hat or a fishbowl. 
 - Non-digital Alternatives
-    - Cards for game design http://www.tiltfactor.org/game/grow-a-game/
-    - Website that creates random game design prompts http://orteil.dashnet.org/gamegen 
+    - Cards for game design [http://www.tiltfactor.org/game/grow-a-game/](http://www.tiltfactor.org/game/grow-a-game/)
+    - Website that creates random game design prompts [http://orteil.dashnet.org/gamegen](http://orteil.dashnet.org/gamegen)
             *You can click or unclick “sanity setting*”
     - Physical Fishbowl (using USB Flash Drives with preloaded gifs, films or trailers put into a bowl)
 - Large newsprint pad/Large post it pad
@@ -141,5 +141,5 @@ Each group formally presents their ideas for their game with design document con
 **Design Document**
 
 - Have teams fill out a game design document with their idea. This is not limited to text! Encourage teams to draw and sketch and do whatever they need to record their idea.
-  - [Game Design Document](pdfs/GDD.pdf)
-  - [Storyboards](pdfs/storyboard.pdf)
+  - [Game Design Document](files/GDD.pdf)
+  - [Storyboards](files/storyboard.pdf)
