@@ -1,0 +1,5 @@
+[book]
+authors = ["Ramsey Nasser"]
+multilingual = false
+src = "src"
+title = "Playable Fashion"

@@ -141,8 +141,5 @@ Each group formally presents their ideas for their game with design document con
 **Design Document**
 
 - Have teams fill out a game design document with their idea. This is not limited to text! Encourage teams to draw and sketch and do whatever they need to record their idea.
-https://www.dropbox.com/s/bszpjv5uyvuyn53/GDD.pdf?dl=0
-
-https://www.dropbox.com/s/pydrdsf39jb0m3v/storyboard.pdf?dl=0
-
-
+  - [Game Design Document](pdfs/GDD.pdf)
+  - [Storyboards](pdfs/storyboard.pdf)
