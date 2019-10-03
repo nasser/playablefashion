@@ -75,7 +75,7 @@ A store with a great selection of conductive fabrics.
 
 ### Session Two: Unity
 
-- Follow the first two videos on [http://unity3d.com/learn/tutorials/modules/beginner/live-training-archive/editor-basics](http://unity3d.com/learn/tutorials/modules/beginner/live-training-archive/editor-basics)
+- Follow the first two videos on [https://learn.unity.com/tutorial/using-the-unity-interface](https://learn.unity.com/tutorial/using-the-unity-interface)
 
 
 #### Festivals, Demos, Playtesting, Game Jams, Competitions

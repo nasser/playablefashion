@@ -1,5 +1,6 @@
 [Introduction](./README.md)
 - [Buzzkill](./buzzkill/plan.md)
+    - [miniPaint Guide](./buzzkill/miniPaint-Guide.md)
 - [Game Literacy](./game-literacy/plan.md)
 - [Abstract Electronic Toys](./abstract-electronic-toys/plan.md)
 - [Fashion in Depth](./fashion-in-depth/plan.md)

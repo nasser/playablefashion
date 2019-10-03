@@ -116,7 +116,7 @@ As we become increasingly dependent on smart devices that are no longer limited 
     - Base
         +
     - Pushbutton (Arcade button) [https://www.adafruit.com/product/472](https://www.adafruit.com/product/472)
-        *also very large push buttons are fun [https://www.adafruit.com/product/1185*](https://www.adafruit.com/product/1185*)
+        *also very large push buttons are fun [https://www.adafruit.com/product/1185](https://www.adafruit.com/product/1185)*
     - 10k ohm resistor for push button [https://www.adafruit.com/product/2784](https://www.adafruit.com/product/2784)
     - Speaker [http://www.jameco.com/z/GF0506X-Shogyo-International-Square-Ferrite-Speaker-2-8-ohm-1-4-Watt_2231161.html](http://www.jameco.com/z/GF0506X-Shogyo-International-Square-Ferrite-Speaker-2-8-ohm-1-4-Watt_2231161.html)
     - 100 ohm resistor for speaker [http://a.co/gV7g6xI](http://a.co/gV7g6xI)
@@ -140,7 +140,7 @@ As we become increasingly dependent on smart devices that are no longer limited 
 
 ## Option 2: Using Commercial Electronics
 *Use this option if you don’t have time to make custom boxes or aren’t familiar with Arduino and basic circuit building.*
-- GE Wireless doorbell. [How to hack wireless doorbell](filed/hacking-doorbell.pdf)
+- GE Wireless doorbell. [How to hack wireless doorbell](files/hacking-doorbell.pdf)
 
 
 - Conductive Materials and Objects
