@@ -125,8 +125,30 @@ The participants are lead through a series of demonstrations and exercises, with
 - How to use a variety of materials: adhesive paper, felt, foam, fabric, conductive fabric and thread, batting
 
 
-## Materials (per 15 students)
+## Materials (15 students)
 If the budget or circumstance allows for this, it is recommended that the [FLORA budget pack](https://www.adafruit.com/products/1405) is used, which includes many of the materials below, in addition to some other components that might be useful in the long run. The materials in the budget pack are marked with a ★. 
+
+| Item                     | Quantity           | Link | Notes |
+| ------------------------ | ------------------ | ---- | ----- | 
+| Gloves                   | 15 pairs           | [🔗](http://www.homedepot.com/p/HANDS-ON-Cotton-Poly-All-Purpose-Brown-Jersey-3-Pack-CT7000-HOWG-L-3PK/202591309)
+| ★ Flora                  | 15 boards          | [🔗](https://www.adafruit.com/product/659)
+| ★ Micro-B USB cord       |                    | 
+| ★ Alligator Clip         | 12                 | [🔗](https://www.adafruit.com/products/1008)
+| ★ Conductive Thread      | 4 / student        | [🔗](https://www.adafruit.com/products/641)
+| Conductive Fabric        | 2 yards            | [🔗](http://www.lessemf.com/fabric4.html#1212)
+| Conductive Fabric Tape   | 3 / student        | [🔗](http://www.lessemf.com/fabric.html#225)
+| Iron On Adhesive         | 2 / student        | [🔗](https://amzn.com/B000XAMYXI)
+| Ink Jet printed Canvas   | 2 packs            | [🔗](https://www.amazon.com/dp/B000F3FT3K/ref=cm_sw_su_dp)
+| 6” Embroidery Hoop       | 1 / student        | [🔗](http://www.michaels.com/loops-and-threads-wooden-embroidery-hoop/M10124152.html?)
+| Craft Foam               | 1 pack             | [🔗](https://www.amazon.com/dp/B00284I2FG/ref=cm_sw_su_dp)
+| Fabric/Felt for applying | 2 packs            | [🔗](https://www.amazon.com/dp/B019RIWEEK/ref=cm_sw_su_dp)
+| Glue gun & glue sticks   | 1 gun / 5 students | [🔗](https://www.amazon.com/dp/B01178RVI2)
+| ★ Sewing Needles         |                    | [🔗](https://www.adafruit.com/products/615)| eye of the needle must be large enough to allow for conductive thread
+| Scissors                 | 1 / student        | [🔗](http://a.co/asMCOWj) | a good pair of scissors that can cut fabric easily
+| Batting/stuffing         | 1 pack             | [🔗](http://a.co/asMCOWj) | poly or cotton work fine
+| Clear tape               |                    | [🔗](http://a.co/1nb8YHN) | when thread is touching use to separate
+| Neo Pixels Strip         | 1                  | [🔗](https://www.adafruit.com/product/1138) | cut into strips of 4 neopixels
+
 
 
 - Gloves (15 pairs) - [home depot](http://www.homedepot.com/p/HANDS-ON-Cotton-Poly-All-Purpose-Brown-Jersey-3-Pack-CT7000-HOWG-L-3PK/202591309), [amazon](https://amzn.com/B005ETA2EG)    

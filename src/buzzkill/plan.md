@@ -89,16 +89,26 @@ Because of the use of the hot glue gun and iron, safety is an important concern 
 
 
 # Materials (25 students)
-- Copper Fabric: Less EMF (1 yard) [http://www.lessemf.com/fabric4.html#1212](http://www.lessemf.com/fabric4.html#1212)
+| Item                    | Quantity           | Link | Notes |
+| ----------------------- | ------------------ | ---- | ----- |
+| Copper Fabric           | 1 yard             | [🔗](http://www.lessemf.com/fabric4.html#1212)
+| Gloves                  | 10 packs           | [🔗](http://www.homedepot.com/p/HANDS-ON-Cotton-Poly-All-Purpose-Brown-Jersey-3-Pack-CT7000-HOWG-L-3PK/202591309) | 1 pair per student + 5 extra
+| Adhesive Bonding Paper  | 1 roll             | [🔗](http://a.co/8CfSR3c)
+| Craft Foam              | 1 pack             | [🔗](http://a.co/3GCBj5K)
+| FLORA                   | 35 boards          | [🔗](https://www.adafruit.com/product/659) | 1 per student + 10 extra
+| USB cords for FLORA     | 25 cords           | [🔗](https://www.adafruit.com/product/592)
+| Alligator Clips         | 5 packs = 60 clips | [🔗](https://www.adafruit.com/product/1008) | 2 per student + 10 extra
+
+
+- Copper Fabric: [Less EMF](http://www.lessemf.com/fabric4.html#1212) (1 yard)
 - Gloves:
-  - Home Depot (10 x pack = 25 pairs + 5 extra) [http://www.homedepot.com/p/HANDS-ON-Cotton-Poly-All-Purpose-Brown-Jersey-3-Pack-CT7000-HOWG-L-3PK/202591309](http://www.homedepot.com/p/HANDS-ON-Cotton-Poly-All-Purpose-Brown-Jersey-3-Pack-CT7000-HOWG-L-3PK/202591309)
-    **OR**
-  - Amazon(3 x pack = 25 pairs + 24 extra) [https://www.amazon.com/dp/B005ETA2EG/ref=cm_sw_su_dp](https://www.amazon.com/dp/B005ETA2EG/ref=cm_sw_su_dp)
-- Adhesive Bonding Paper: Amazon (1 x roll) [http://a.co/8CfSR3c](http://a.co/8CfSR3c)
-- Craft Foam: Amazon (1 pack)  [http://a.co/3GCBj5K](http://a.co/3GCBj5K)
-- FLORA: Adafruit (35 x ) [https://www.adafruit.com/product/659](https://www.adafruit.com/product/659)
-- USB cords for FLORA: Adafruit (25 x) [https://www.adafruit.com/product/592](https://www.adafruit.com/product/592)
-- Alligator Clips: Adafruit ( 5 x pack = 60 clips, 2 per student + 10 extra) [https://www.adafruit.com/product/1008](https://www.adafruit.com/product/1008)
+  - [Home Depot](http://www.homedepot.com/p/HANDS-ON-Cotton-Poly-All-Purpose-Brown-Jersey-3-Pack-CT7000-HOWG-L-3PK/202591309) (10 x pack = 25 pairs + 5 extra) 
+  - **OR** [Amazon](https://www.amazon.com/dp/B005ETA2EG/ref=cm_sw_su_dp) (3 x pack = 25 pairs + 24 extra) 
+- Adhesive Bonding Paper: [Amazon](http://a.co/8CfSR3c) (1 x roll)
+- Craft Foam: [Amazon](http://a.co/3GCBj5K) (1 pack)
+- FLORA: [Adafruit](https://www.adafruit.com/product/659) (35 x)
+- USB cords for FLORA: [Adafruit](https://www.adafruit.com/product/592) (25 x)
+- Alligator Clips: [Adafruit](https://www.adafruit.com/product/1008) ( 5 x pack = 60 clips, 2 per student + 10 extra)
 
 # Tools
 Ideally, having a glue gun and iron per 5 students helps. Also, 1 scissors per person helps, but can be a scissor per 2 students. Otherwise, there will a bottlenecking problem at the hot glue gun and iron stations.
