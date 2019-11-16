@@ -1,0 +1,3 @@
+# Brainstorming
+
+Often, in creative group exercises, one participant’s voice can dominate the discussion and direction of the group. Some may arrive to the group with an idea already in their head, their heart set on the idea, unable to consider other alternatives. Starting like this can make it hard for others to feel ownership and interest in the project, and can break down the collaborative creative process. The Brainstorming module is a series of exercises, rituals and games, emphasizing collaboration in the ideation process. The goal is to create equal opportunities for each participant to contribute, and for the final ideas to be bigger than anything a single participant could have arrived at on their own.

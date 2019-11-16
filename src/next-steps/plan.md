@@ -1,4 +1,4 @@
-# Next Steps Lesson Plan
+# Next Steps
 
 ## Summary
 
