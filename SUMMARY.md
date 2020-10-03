@@ -1,11 +1,9 @@
-<!-- * [Introduction](./README.md)
-* [Buzzkill](./buzzkill/plan.md)
-* [Game Literacy](./game-literacy/plan.md)
-* [Abstract Electronic Toys](./abstract-electronic-toys/plan.md)
-* [Fashion in Depth](./fashion-in-depth/plan.md)
-* [World's Slowest Computer](./worlds-slowest-computer/plan.md)
-* [Coding in Depth](./coding-in-depth/plan.md)
-* [Brainstorming](./brainstorming/plan.md)
-* [Game Jam](./game-jam/plan.md)
-* [Next Steps](./next-steps/plan.md)
- -->
+# Table of contents
+
+* [Playable Fashion](README.md)
+* [Buzzkill](buzzkill-lesson-plan/README.md)
+  * [Context](buzzkill-lesson-plan/subpage.md)
+  * [Learning Goals](buzzkill-lesson-plan/learning-goals.md)
+  * [Lesson Plan](buzzkill-lesson-plan/lesson-plan.md)
+* [Format Test](format-test.md)
+
